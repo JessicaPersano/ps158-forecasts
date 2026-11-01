@@ -1,0 +1,1549 @@
+measure_id,fips,county,matched_measure,direction,b2_yes_raw
+CO-A82,08001,Adams County,m22,opposite,58.91
+CO-A82,08003,Alamosa County,m22,opposite,57.83
+CO-A82,08005,Arapahoe County,m22,opposite,55.03
+CO-A82,08007,Archuleta County,m22,opposite,51.23
+CO-A82,08009,Baca County,m22,opposite,80.65
+CO-A82,08011,Bent County,m22,opposite,70.09
+CO-A82,08013,Boulder County,m22,opposite,29.35
+CO-A82,08014,Broomfield County,m22,opposite,44.84
+CO-A82,08015,Chaffee County,m22,opposite,50.59
+CO-A82,08017,Cheyenne County,m22,opposite,90.28
+CO-A82,08019,Clear Creek County,m22,opposite,53.27
+CO-A82,08021,Conejos County,m22,opposite,64.26
+CO-A82,08023,Costilla County,m22,opposite,50.20
+CO-A82,08025,Crowley County,m22,opposite,71.44
+CO-A82,08027,Custer County,m22,opposite,61.26
+CO-A82,08029,Delta County,m22,opposite,65.66
+CO-A82,08031,Denver County,m22,opposite,41.04
+CO-A82,08033,Dolores County,m22,opposite,77.11
+CO-A82,08035,Douglas County,m22,opposite,64.94
+CO-A82,08037,Eagle County,m22,opposite,40.20
+CO-A82,08041,El Paso County,m22,opposite,59.58
+CO-A82,08039,Elbert County,m22,opposite,72.63
+CO-A82,08043,Fremont County,m22,opposite,64.72
+CO-A82,08045,Garfield County,m22,opposite,53.81
+CO-A82,08047,Gilpin County,m22,opposite,50.02
+CO-A82,08049,Grand County,m22,opposite,54.01
+CO-A82,08051,Gunnison County,m22,opposite,40.98
+CO-A82,08053,Hinsdale County,m22,opposite,61.82
+CO-A82,08055,Huerfano County,m22,opposite,52.54
+CO-A82,08057,Jackson County,m22,opposite,81.64
+CO-A82,08059,Jefferson County,m22,opposite,57.19
+CO-A82,08061,Kiowa County,m22,opposite,84.28
+CO-A82,08063,Kit Carson County,m22,opposite,82.56
+CO-A82,08067,La Plata County,m22,opposite,47.81
+CO-A82,08065,Lake County,m22,opposite,49.72
+CO-A82,08069,Larimer County,m22,opposite,53.13
+CO-A82,08071,Las Animas County,m22,opposite,65.26
+CO-A82,08073,Lincoln County,m22,opposite,81.63
+CO-A82,08075,Logan County,m22,opposite,86.98
+CO-A82,08077,Mesa County,m22,opposite,72.94
+CO-A82,08079,Mineral County,m22,opposite,58.29
+CO-A82,08081,Moffat County,m22,opposite,81.51
+CO-A82,08083,Montezuma County,m22,opposite,58.77
+CO-A82,08085,Montrose County,m22,opposite,67.71
+CO-A82,08087,Morgan County,m22,opposite,85.28
+CO-A82,08089,Otero County,m22,opposite,69.84
+CO-A82,08091,Ouray County,m22,opposite,41.66
+CO-A82,08093,Park County,m22,opposite,60.12
+CO-A82,08095,Phillips County,m22,opposite,82.29
+CO-A82,08097,Pitkin County,m22,opposite,28.08
+CO-A82,08099,Prowers County,m22,opposite,77.46
+CO-A82,08101,Pueblo County,m22,opposite,61.64
+CO-A82,08103,Rio Blanco County,m22,opposite,88.75
+CO-A82,08105,Rio Grande County,m22,opposite,65.57
+CO-A82,08107,Routt County,m22,opposite,43.53
+CO-A82,08109,Saguache County,m22,opposite,41.87
+CO-A82,08111,San Juan County,m22,opposite,41.99
+CO-A82,08113,San Miguel County,m22,opposite,25.52
+CO-A82,08115,Sedgwick County,m22,opposite,76.31
+CO-A82,08117,Summit County,m22,opposite,39.04
+CO-A82,08119,Teller County,m22,opposite,62.84
+CO-A82,08121,Washington County,m22,opposite,87.85
+CO-A82,08123,Weld County,m22,opposite,74.12
+CO-A82,08125,Yuma County,m22,opposite,86.65
+CO-A83,08001,Adams County,m59,opposite,51.42
+CO-A83,08003,Alamosa County,m59,opposite,63.88
+CO-A83,08005,Arapahoe County,m59,opposite,49.46
+CO-A83,08007,Archuleta County,m59,opposite,65.94
+CO-A83,08009,Baca County,m59,opposite,82.62
+CO-A83,08011,Bent County,m59,opposite,70.61
+CO-A83,08013,Boulder County,m59,opposite,40.95
+CO-A83,08014,Broomfield County,m59,opposite,49.50
+CO-A83,08015,Chaffee County,m59,opposite,64.40
+CO-A83,08017,Cheyenne County,m59,opposite,86.63
+CO-A83,08019,Clear Creek County,m59,opposite,61.64
+CO-A83,08021,Conejos County,m59,opposite,75.17
+CO-A83,08023,Costilla County,m59,opposite,57.54
+CO-A83,08025,Crowley County,m59,opposite,69.32
+CO-A83,08027,Custer County,m59,opposite,70.68
+CO-A83,08029,Delta County,m59,opposite,73.27
+CO-A83,08031,Denver County,m59,opposite,43.10
+CO-A83,08033,Dolores County,m59,opposite,81.52
+CO-A83,08035,Douglas County,m59,opposite,58.57
+CO-A83,08037,Eagle County,m59,opposite,60.98
+CO-A83,08041,El Paso County,m59,opposite,53.22
+CO-A83,08039,Elbert County,m59,opposite,75.53
+CO-A83,08043,Fremont County,m59,opposite,68.69
+CO-A83,08045,Garfield County,m59,opposite,66.72
+CO-A83,08047,Gilpin County,m59,opposite,61.91
+CO-A83,08049,Grand County,m59,opposite,76.11
+CO-A83,08051,Gunnison County,m59,opposite,70.29
+CO-A83,08053,Hinsdale County,m59,opposite,69.22
+CO-A83,08055,Huerfano County,m59,opposite,61.33
+CO-A83,08057,Jackson County,m59,opposite,89.81
+CO-A83,08059,Jefferson County,m59,opposite,54.51
+CO-A83,08061,Kiowa County,m59,opposite,83.89
+CO-A83,08063,Kit Carson County,m59,opposite,79.62
+CO-A83,08067,La Plata County,m59,opposite,55.88
+CO-A83,08065,Lake County,m59,opposite,62.71
+CO-A83,08069,Larimer County,m59,opposite,56.76
+CO-A83,08071,Las Animas County,m59,opposite,63.93
+CO-A83,08073,Lincoln County,m59,opposite,80.02
+CO-A83,08075,Logan County,m59,opposite,73.88
+CO-A83,08077,Mesa County,m59,opposite,66.72
+CO-A83,08079,Mineral County,m59,opposite,74.25
+CO-A83,08081,Moffat County,m59,opposite,86.68
+CO-A83,08083,Montezuma County,m59,opposite,68.80
+CO-A83,08085,Montrose County,m59,opposite,72.33
+CO-A83,08087,Morgan County,m59,opposite,71.01
+CO-A83,08089,Otero County,m59,opposite,65.49
+CO-A83,08091,Ouray County,m59,opposite,55.36
+CO-A83,08093,Park County,m59,opposite,70.37
+CO-A83,08095,Phillips County,m59,opposite,78.63
+CO-A83,08097,Pitkin County,m59,opposite,55.16
+CO-A83,08099,Prowers County,m59,opposite,73.30
+CO-A83,08101,Pueblo County,m59,opposite,55.25
+CO-A83,08103,Rio Blanco County,m59,opposite,91.05
+CO-A83,08105,Rio Grande County,m59,opposite,71.18
+CO-A83,08107,Routt County,m59,opposite,66.76
+CO-A83,08109,Saguache County,m59,opposite,56.33
+CO-A83,08111,San Juan County,m59,opposite,46.18
+CO-A83,08113,San Miguel County,m59,opposite,44.41
+CO-A83,08115,Sedgwick County,m59,opposite,75.35
+CO-A83,08117,Summit County,m59,opposite,60.61
+CO-A83,08119,Teller County,m59,opposite,66.54
+CO-A83,08121,Washington County,m59,opposite,84.18
+CO-A83,08123,Weld County,m59,opposite,64.44
+CO-A83,08125,Yuma County,m59,opposite,83.32
+CO-A84,08001,Adams County,m25,same,65.24
+CO-A84,08003,Alamosa County,m25,same,70.75
+CO-A84,08005,Arapahoe County,m25,same,60.59
+CO-A84,08007,Archuleta County,m25,same,73.55
+CO-A84,08009,Baca County,m25,same,87.21
+CO-A84,08011,Bent County,m25,same,82.70
+CO-A84,08013,Boulder County,m25,same,41.14
+CO-A84,08014,Broomfield County,m25,same,57.45
+CO-A84,08015,Chaffee County,m25,same,64.01
+CO-A84,08017,Cheyenne County,m25,same,88.60
+CO-A84,08019,Clear Creek County,m25,same,64.25
+CO-A84,08021,Conejos County,m25,same,78.92
+CO-A84,08023,Costilla County,m25,same,72.11
+CO-A84,08025,Crowley County,m25,same,84.64
+CO-A84,08027,Custer County,m25,same,79.95
+CO-A84,08029,Delta County,m25,same,78.21
+CO-A84,08031,Denver County,m25,same,44.67
+CO-A84,08033,Dolores County,m25,same,81.29
+CO-A84,08035,Douglas County,m25,same,71.02
+CO-A84,08037,Eagle County,m25,same,59.69
+CO-A84,08041,El Paso County,m25,same,72.93
+CO-A84,08039,Elbert County,m25,same,83.67
+CO-A84,08043,Fremont County,m25,same,81.96
+CO-A84,08045,Garfield County,m25,same,66.80
+CO-A84,08047,Gilpin County,m25,same,62.18
+CO-A84,08049,Grand County,m25,same,66.97
+CO-A84,08051,Gunnison County,m25,same,54.44
+CO-A84,08053,Hinsdale County,m25,same,72.46
+CO-A84,08055,Huerfano County,m25,same,73.06
+CO-A84,08057,Jackson County,m25,same,83.74
+CO-A84,08059,Jefferson County,m25,same,60.71
+CO-A84,08061,Kiowa County,m25,same,90.20
+CO-A84,08063,Kit Carson County,m25,same,87.05
+CO-A84,08067,La Plata County,m25,same,59.18
+CO-A84,08065,Lake County,m25,same,62.22
+CO-A84,08069,Larimer County,m25,same,59.55
+CO-A84,08071,Las Animas County,m25,same,77.89
+CO-A84,08073,Lincoln County,m25,same,87.38
+CO-A84,08075,Logan County,m25,same,83.93
+CO-A84,08077,Mesa County,m25,same,76.40
+CO-A84,08079,Mineral County,m25,same,71.02
+CO-A84,08081,Moffat County,m25,same,86.51
+CO-A84,08083,Montezuma County,m25,same,73.97
+CO-A84,08085,Montrose County,m25,same,79.00
+CO-A84,08087,Morgan County,m25,same,80.72
+CO-A84,08089,Otero County,m25,same,79.71
+CO-A84,08091,Ouray County,m25,same,56.63
+CO-A84,08093,Park County,m25,same,73.47
+CO-A84,08095,Phillips County,m25,same,86.68
+CO-A84,08097,Pitkin County,m25,same,46.58
+CO-A84,08099,Prowers County,m25,same,82.17
+CO-A84,08101,Pueblo County,m25,same,73.51
+CO-A84,08103,Rio Blanco County,m25,same,87.02
+CO-A84,08105,Rio Grande County,m25,same,77.81
+CO-A84,08107,Routt County,m25,same,58.67
+CO-A84,08109,Saguache County,m25,same,63.45
+CO-A84,08111,San Juan County,m25,same,51.02
+CO-A84,08113,San Miguel County,m25,same,45.03
+CO-A84,08115,Sedgwick County,m25,same,85.21
+CO-A84,08117,Summit County,m25,same,53.81
+CO-A84,08119,Teller County,m25,same,79.45
+CO-A84,08121,Washington County,m25,same,88.29
+CO-A84,08123,Weld County,m25,same,74.50
+CO-A84,08125,Yuma County,m25,same,86.51
+CO-A86,08001,Adams County,m17,same,66.69
+CO-A86,08003,Alamosa County,m17,same,63.55
+CO-A86,08005,Arapahoe County,m17,same,71.26
+CO-A86,08007,Archuleta County,m17,same,67.83
+CO-A86,08009,Baca County,m17,same,54.54
+CO-A86,08011,Bent County,m17,same,59.55
+CO-A86,08013,Boulder County,m17,same,77.13
+CO-A86,08014,Broomfield County,m17,same,73.54
+CO-A86,08015,Chaffee County,m17,same,69.82
+CO-A86,08017,Cheyenne County,m17,same,54.22
+CO-A86,08019,Clear Creek County,m17,same,72.14
+CO-A86,08021,Conejos County,m17,same,52.63
+CO-A86,08023,Costilla County,m17,same,62.46
+CO-A86,08025,Crowley County,m17,same,60.04
+CO-A86,08027,Custer County,m17,same,60.61
+CO-A86,08029,Delta County,m17,same,63.87
+CO-A86,08031,Denver County,m17,same,80.11
+CO-A86,08033,Dolores County,m17,same,47.33
+CO-A86,08035,Douglas County,m17,same,68.92
+CO-A86,08037,Eagle County,m17,same,74.15
+CO-A86,08041,El Paso County,m17,same,72.81
+CO-A86,08039,Elbert County,m17,same,62.42
+CO-A86,08043,Fremont County,m17,same,68.13
+CO-A86,08045,Garfield County,m17,same,67.81
+CO-A86,08047,Gilpin County,m17,same,68.52
+CO-A86,08049,Grand County,m17,same,70.58
+CO-A86,08051,Gunnison County,m17,same,73.86
+CO-A86,08053,Hinsdale County,m17,same,67.11
+CO-A86,08055,Huerfano County,m17,same,69.54
+CO-A86,08057,Jackson County,m17,same,54.22
+CO-A86,08059,Jefferson County,m17,same,71.99
+CO-A86,08061,Kiowa County,m17,same,58.24
+CO-A86,08063,Kit Carson County,m17,same,62.72
+CO-A86,08067,La Plata County,m17,same,76.72
+CO-A86,08065,Lake County,m17,same,65.88
+CO-A86,08069,Larimer County,m17,same,70.71
+CO-A86,08071,Las Animas County,m17,same,66.28
+CO-A86,08073,Lincoln County,m17,same,55.86
+CO-A86,08075,Logan County,m17,same,57.04
+CO-A86,08077,Mesa County,m17,same,68.45
+CO-A86,08079,Mineral County,m17,same,70.80
+CO-A86,08081,Moffat County,m17,same,51.96
+CO-A86,08083,Montezuma County,m17,same,60.62
+CO-A86,08085,Montrose County,m17,same,64.91
+CO-A86,08087,Morgan County,m17,same,57.93
+CO-A86,08089,Otero County,m17,same,62.78
+CO-A86,08091,Ouray County,m17,same,75.46
+CO-A86,08093,Park County,m17,same,66.34
+CO-A86,08095,Phillips County,m17,same,55.24
+CO-A86,08097,Pitkin County,m17,same,83.53
+CO-A86,08099,Prowers County,m17,same,54.49
+CO-A86,08101,Pueblo County,m17,same,69.48
+CO-A86,08103,Rio Blanco County,m17,same,52.43
+CO-A86,08105,Rio Grande County,m17,same,58.44
+CO-A86,08107,Routt County,m17,same,73.19
+CO-A86,08109,Saguache County,m17,same,68.28
+CO-A86,08111,San Juan County,m17,same,73.93
+CO-A86,08113,San Miguel County,m17,same,80.14
+CO-A86,08115,Sedgwick County,m17,same,51.85
+CO-A86,08117,Summit County,m17,same,78.17
+CO-A86,08119,Teller County,m17,same,70.78
+CO-A86,08121,Washington County,m17,same,49.85
+CO-A86,08123,Weld County,m17,same,61.79
+CO-A86,08125,Yuma County,m17,same,54.77
+CO-A87,08001,Adams County,m42,opposite,30.79
+CO-A87,08003,Alamosa County,m42,opposite,30.55
+CO-A87,08005,Arapahoe County,m42,opposite,34.44
+CO-A87,08007,Archuleta County,m42,opposite,28.33
+CO-A87,08009,Baca County,m42,opposite,26.27
+CO-A87,08011,Bent County,m42,opposite,24.87
+CO-A87,08013,Boulder County,m42,opposite,51.83
+CO-A87,08014,Broomfield County,m42,opposite,39.89
+CO-A87,08015,Chaffee County,m42,opposite,36.18
+CO-A87,08017,Cheyenne County,m42,opposite,23.58
+CO-A87,08019,Clear Creek County,m42,opposite,35.64
+CO-A87,08021,Conejos County,m42,opposite,24.45
+CO-A87,08023,Costilla County,m42,opposite,27.41
+CO-A87,08025,Crowley County,m42,opposite,19.53
+CO-A87,08027,Custer County,m42,opposite,22.67
+CO-A87,08029,Delta County,m42,opposite,26.96
+CO-A87,08031,Denver County,m42,opposite,47.23
+CO-A87,08033,Dolores County,m42,opposite,27.28
+CO-A87,08035,Douglas County,m42,opposite,27.92
+CO-A87,08037,Eagle County,m42,opposite,35.36
+CO-A87,08041,El Paso County,m42,opposite,26.43
+CO-A87,08039,Elbert County,m42,opposite,18.12
+CO-A87,08043,Fremont County,m42,opposite,22.82
+CO-A87,08045,Garfield County,m42,opposite,33.51
+CO-A87,08047,Gilpin County,m42,opposite,33.98
+CO-A87,08049,Grand County,m42,opposite,32.23
+CO-A87,08051,Gunnison County,m42,opposite,42.60
+CO-A87,08053,Hinsdale County,m42,opposite,28.98
+CO-A87,08055,Huerfano County,m42,opposite,27.96
+CO-A87,08057,Jackson County,m42,opposite,29.65
+CO-A87,08059,Jefferson County,m42,opposite,38.79
+CO-A87,08061,Kiowa County,m42,opposite,20.78
+CO-A87,08063,Kit Carson County,m42,opposite,20.25
+CO-A87,08067,La Plata County,m42,opposite,41.07
+CO-A87,08065,Lake County,m42,opposite,35.66
+CO-A87,08069,Larimer County,m42,opposite,38.92
+CO-A87,08071,Las Animas County,m42,opposite,24.06
+CO-A87,08073,Lincoln County,m42,opposite,22.93
+CO-A87,08075,Logan County,m42,opposite,23.48
+CO-A87,08077,Mesa County,m42,opposite,26.34
+CO-A87,08079,Mineral County,m42,opposite,31.31
+CO-A87,08081,Moffat County,m42,opposite,20.42
+CO-A87,08083,Montezuma County,m42,opposite,31.75
+CO-A87,08085,Montrose County,m42,opposite,25.25
+CO-A87,08087,Morgan County,m42,opposite,23.67
+CO-A87,08089,Otero County,m42,opposite,25.76
+CO-A87,08091,Ouray County,m42,opposite,39.84
+CO-A87,08093,Park County,m42,opposite,29.47
+CO-A87,08095,Phillips County,m42,opposite,23.24
+CO-A87,08097,Pitkin County,m42,opposite,43.17
+CO-A87,08099,Prowers County,m42,opposite,24.83
+CO-A87,08101,Pueblo County,m42,opposite,25.38
+CO-A87,08103,Rio Blanco County,m42,opposite,21.49
+CO-A87,08105,Rio Grande County,m42,opposite,28.93
+CO-A87,08107,Routt County,m42,opposite,38.48
+CO-A87,08109,Saguache County,m42,opposite,35.38
+CO-A87,08111,San Juan County,m42,opposite,41.47
+CO-A87,08113,San Miguel County,m42,opposite,44.56
+CO-A87,08115,Sedgwick County,m42,opposite,20.18
+CO-A87,08117,Summit County,m42,opposite,38.28
+CO-A87,08119,Teller County,m42,opposite,21.80
+CO-A87,08121,Washington County,m42,opposite,22.91
+CO-A87,08123,Weld County,m42,opposite,25.54
+CO-A87,08125,Yuma County,m42,opposite,21.98
+CO-PNN,08001,Adams County,m10,same,46.66
+CO-PNN,08003,Alamosa County,m10,same,43.31
+CO-PNN,08005,Arapahoe County,m10,same,47.71
+CO-PNN,08007,Archuleta County,m10,same,43.45
+CO-PNN,08009,Baca County,m10,same,27.93
+CO-PNN,08011,Bent County,m10,same,30.88
+CO-PNN,08013,Boulder County,m10,same,63.09
+CO-PNN,08014,Broomfield County,m10,same,50.48
+CO-PNN,08015,Chaffee County,m10,same,45.32
+CO-PNN,08017,Cheyenne County,m10,same,25.50
+CO-PNN,08019,Clear Creek County,m10,same,45.89
+CO-PNN,08021,Conejos County,m10,same,36.59
+CO-PNN,08023,Costilla County,m10,same,43.26
+CO-PNN,08025,Crowley County,m10,same,29.40
+CO-PNN,08027,Custer County,m10,same,30.31
+CO-PNN,08029,Delta County,m10,same,36.24
+CO-PNN,08031,Denver County,m10,same,61.81
+CO-PNN,08033,Dolores County,m10,same,28.30
+CO-PNN,08035,Douglas County,m10,same,37.04
+CO-PNN,08037,Eagle County,m10,same,50.95
+CO-PNN,08041,El Paso County,m10,same,33.15
+CO-PNN,08039,Elbert County,m10,same,25.48
+CO-PNN,08043,Fremont County,m10,same,31.49
+CO-PNN,08045,Garfield County,m10,same,49.26
+CO-PNN,08047,Gilpin County,m10,same,46.29
+CO-PNN,08049,Grand County,m10,same,46.30
+CO-PNN,08051,Gunnison County,m10,same,57.24
+CO-PNN,08053,Hinsdale County,m10,same,38.91
+CO-PNN,08055,Huerfano County,m10,same,40.26
+CO-PNN,08057,Jackson County,m10,same,33.55
+CO-PNN,08059,Jefferson County,m10,same,47.44
+CO-PNN,08061,Kiowa County,m10,same,24.05
+CO-PNN,08063,Kit Carson County,m10,same,27.96
+CO-PNN,08067,La Plata County,m10,same,47.22
+CO-PNN,08065,Lake County,m10,same,52.38
+CO-PNN,08069,Larimer County,m10,same,52.63
+CO-PNN,08071,Las Animas County,m10,same,32.66
+CO-PNN,08073,Lincoln County,m10,same,29.58
+CO-PNN,08075,Logan County,m10,same,43.04
+CO-PNN,08077,Mesa County,m10,same,34.04
+CO-PNN,08079,Mineral County,m10,same,43.33
+CO-PNN,08081,Moffat County,m10,same,30.99
+CO-PNN,08083,Montezuma County,m10,same,42.54
+CO-PNN,08085,Montrose County,m10,same,33.37
+CO-PNN,08087,Morgan County,m10,same,34.91
+CO-PNN,08089,Otero County,m10,same,32.15
+CO-PNN,08091,Ouray County,m10,same,54.93
+CO-PNN,08093,Park County,m10,same,35.53
+CO-PNN,08095,Phillips County,m10,same,40.14
+CO-PNN,08097,Pitkin County,m10,same,59.15
+CO-PNN,08099,Prowers County,m10,same,31.35
+CO-PNN,08101,Pueblo County,m10,same,36.01
+CO-PNN,08103,Rio Blanco County,m10,same,32.07
+CO-PNN,08105,Rio Grande County,m10,same,34.51
+CO-PNN,08107,Routt County,m10,same,51.43
+CO-PNN,08109,Saguache County,m10,same,47.21
+CO-PNN,08111,San Juan County,m10,same,52.56
+CO-PNN,08113,San Miguel County,m10,same,55.59
+CO-PNN,08115,Sedgwick County,m10,same,43.40
+CO-PNN,08117,Summit County,m10,same,52.99
+CO-PNN,08119,Teller County,m10,same,28.82
+CO-PNN,08121,Washington County,m10,same,34.81
+CO-PNN,08123,Weld County,m10,same,39.56
+CO-PNN,08125,Yuma County,m10,same,30.62
+CO-P132,08001,Adams County,m43,opposite,43.76
+CO-P132,08003,Alamosa County,m43,opposite,52.96
+CO-P132,08005,Arapahoe County,m43,opposite,46.17
+CO-P132,08007,Archuleta County,m43,opposite,48.67
+CO-P132,08009,Baca County,m43,opposite,75.75
+CO-P132,08011,Bent County,m43,opposite,62.44
+CO-P132,08013,Boulder County,m43,opposite,32.49
+CO-P132,08014,Broomfield County,m43,opposite,43.34
+CO-P132,08015,Chaffee County,m43,opposite,45.31
+CO-P132,08017,Cheyenne County,m43,opposite,73.92
+CO-P132,08019,Clear Creek County,m43,opposite,41.63
+CO-P132,08021,Conejos County,m43,opposite,61.44
+CO-P132,08023,Costilla County,m43,opposite,48.88
+CO-P132,08025,Crowley County,m43,opposite,65.08
+CO-P132,08027,Custer County,m43,opposite,59.48
+CO-P132,08029,Delta County,m43,opposite,57.85
+CO-P132,08031,Denver County,m43,opposite,30.94
+CO-P132,08033,Dolores County,m43,opposite,58.02
+CO-P132,08035,Douglas County,m43,opposite,55.12
+CO-P132,08037,Eagle County,m43,opposite,37.62
+CO-P132,08041,El Paso County,m43,opposite,54.88
+CO-P132,08039,Elbert County,m43,opposite,65.57
+CO-P132,08043,Fremont County,m43,opposite,58.47
+CO-P132,08045,Garfield County,m43,opposite,43.17
+CO-P132,08047,Gilpin County,m43,opposite,38.13
+CO-P132,08049,Grand County,m43,opposite,47.57
+CO-P132,08051,Gunnison County,m43,opposite,34.10
+CO-P132,08053,Hinsdale County,m43,opposite,50.42
+CO-P132,08055,Huerfano County,m43,opposite,48.95
+CO-P132,08057,Jackson County,m43,opposite,65.91
+CO-P132,08059,Jefferson County,m43,opposite,45.78
+CO-P132,08061,Kiowa County,m43,opposite,78.38
+CO-P132,08063,Kit Carson County,m43,opposite,74.85
+CO-P132,08067,La Plata County,m43,opposite,40.69
+CO-P132,08065,Lake County,m43,opposite,39.09
+CO-P132,08069,Larimer County,m43,opposite,44.43
+CO-P132,08071,Las Animas County,m43,opposite,52.34
+CO-P132,08073,Lincoln County,m43,opposite,72.38
+CO-P132,08075,Logan County,m43,opposite,67.87
+CO-P132,08077,Mesa County,m43,opposite,55.67
+CO-P132,08079,Mineral County,m43,opposite,45.66
+CO-P132,08081,Moffat County,m43,opposite,64.23
+CO-P132,08083,Montezuma County,m43,opposite,54.47
+CO-P132,08085,Montrose County,m43,opposite,61.57
+CO-P132,08087,Morgan County,m43,opposite,66.85
+CO-P132,08089,Otero County,m43,opposite,61.78
+CO-P132,08091,Ouray County,m43,opposite,38.45
+CO-P132,08093,Park County,m43,opposite,48.76
+CO-P132,08095,Phillips County,m43,opposite,69.27
+CO-P132,08097,Pitkin County,m43,opposite,24.07
+CO-P132,08099,Prowers County,m43,opposite,65.05
+CO-P132,08101,Pueblo County,m43,opposite,52.84
+CO-P132,08103,Rio Blanco County,m43,opposite,69.29
+CO-P132,08105,Rio Grande County,m43,opposite,56.50
+CO-P132,08107,Routt County,m43,opposite,36.74
+CO-P132,08109,Saguache County,m43,opposite,42.12
+CO-P132,08111,San Juan County,m43,opposite,30.91
+CO-P132,08113,San Miguel County,m43,opposite,21.16
+CO-P132,08115,Sedgwick County,m43,opposite,60.13
+CO-P132,08117,Summit County,m43,opposite,34.70
+CO-P132,08119,Teller County,m43,opposite,57.13
+CO-P132,08121,Washington County,m43,opposite,75.67
+CO-P132,08123,Weld County,m43,opposite,54.01
+CO-P132,08125,Yuma County,m43,opposite,72.73
+CO-P134,08001,Adams County,m57,opposite,37.50
+CO-P134,08003,Alamosa County,m57,opposite,49.95
+CO-P134,08005,Arapahoe County,m57,opposite,33.27
+CO-P134,08007,Archuleta County,m57,opposite,47.33
+CO-P134,08009,Baca County,m57,opposite,75.56
+CO-P134,08011,Bent County,m57,opposite,63.25
+CO-P134,08013,Boulder County,m57,opposite,17.09
+CO-P134,08014,Broomfield County,m57,opposite,26.83
+CO-P134,08015,Chaffee County,m57,opposite,34.80
+CO-P134,08017,Cheyenne County,m57,opposite,79.22
+CO-P134,08019,Clear Creek County,m57,opposite,30.24
+CO-P134,08021,Conejos County,m57,opposite,63.33
+CO-P134,08023,Costilla County,m57,opposite,49.38
+CO-P134,08025,Crowley County,m57,opposite,66.40
+CO-P134,08027,Custer County,m57,opposite,57.87
+CO-P134,08029,Delta County,m57,opposite,54.52
+CO-P134,08031,Denver County,m57,opposite,18.43
+CO-P134,08033,Dolores County,m57,opposite,63.15
+CO-P134,08035,Douglas County,m57,opposite,39.40
+CO-P134,08037,Eagle County,m57,opposite,26.14
+CO-P134,08041,El Paso County,m57,opposite,44.25
+CO-P134,08039,Elbert County,m57,opposite,58.35
+CO-P134,08043,Fremont County,m57,opposite,56.83
+CO-P134,08045,Garfield County,m57,opposite,37.63
+CO-P134,08047,Gilpin County,m57,opposite,31.08
+CO-P134,08049,Grand County,m57,opposite,38.36
+CO-P134,08051,Gunnison County,m57,opposite,27.20
+CO-P134,08053,Hinsdale County,m57,opposite,47.40
+CO-P134,08055,Huerfano County,m57,opposite,49.07
+CO-P134,08057,Jackson County,m57,opposite,63.21
+CO-P134,08059,Jefferson County,m57,opposite,30.59
+CO-P134,08061,Kiowa County,m57,opposite,75.27
+CO-P134,08063,Kit Carson County,m57,opposite,71.80
+CO-P134,08067,La Plata County,m57,opposite,31.02
+CO-P134,08065,Lake County,m57,opposite,35.00
+CO-P134,08069,Larimer County,m57,opposite,32.87
+CO-P134,08071,Las Animas County,m57,opposite,52.26
+CO-P134,08073,Lincoln County,m57,opposite,66.61
+CO-P134,08075,Logan County,m57,opposite,65.39
+CO-P134,08077,Mesa County,m57,opposite,49.81
+CO-P134,08079,Mineral County,m57,opposite,47.90
+CO-P134,08081,Moffat County,m57,opposite,63.09
+CO-P134,08083,Montezuma County,m57,opposite,51.86
+CO-P134,08085,Montrose County,m57,opposite,56.97
+CO-P134,08087,Morgan County,m57,opposite,61.22
+CO-P134,08089,Otero County,m57,opposite,59.73
+CO-P134,08091,Ouray County,m57,opposite,31.81
+CO-P134,08093,Park County,m57,opposite,44.06
+CO-P134,08095,Phillips County,m57,opposite,71.08
+CO-P134,08097,Pitkin County,m57,opposite,16.23
+CO-P134,08099,Prowers County,m57,opposite,66.21
+CO-P134,08101,Pueblo County,m57,opposite,49.17
+CO-P134,08103,Rio Blanco County,m57,opposite,67.41
+CO-P134,08105,Rio Grande County,m57,opposite,58.17
+CO-P134,08107,Routt County,m57,opposite,25.38
+CO-P134,08109,Saguache County,m57,opposite,41.48
+CO-P134,08111,San Juan County,m57,opposite,27.04
+CO-P134,08113,San Miguel County,m57,opposite,18.15
+CO-P134,08115,Sedgwick County,m57,opposite,66.23
+CO-P134,08117,Summit County,m57,opposite,20.63
+CO-P134,08119,Teller County,m57,opposite,55.20
+CO-P134,08121,Washington County,m57,opposite,74.66
+CO-P134,08123,Weld County,m57,opposite,47.46
+CO-P134,08125,Yuma County,m57,opposite,70.55
+CO-P136,08001,Adams County,m42,same,69.21
+CO-P136,08003,Alamosa County,m42,same,69.45
+CO-P136,08005,Arapahoe County,m42,same,65.56
+CO-P136,08007,Archuleta County,m42,same,71.67
+CO-P136,08009,Baca County,m42,same,73.73
+CO-P136,08011,Bent County,m42,same,75.13
+CO-P136,08013,Boulder County,m42,same,48.17
+CO-P136,08014,Broomfield County,m42,same,60.11
+CO-P136,08015,Chaffee County,m42,same,63.82
+CO-P136,08017,Cheyenne County,m42,same,76.42
+CO-P136,08019,Clear Creek County,m42,same,64.36
+CO-P136,08021,Conejos County,m42,same,75.55
+CO-P136,08023,Costilla County,m42,same,72.59
+CO-P136,08025,Crowley County,m42,same,80.47
+CO-P136,08027,Custer County,m42,same,77.33
+CO-P136,08029,Delta County,m42,same,73.04
+CO-P136,08031,Denver County,m42,same,52.77
+CO-P136,08033,Dolores County,m42,same,72.72
+CO-P136,08035,Douglas County,m42,same,72.08
+CO-P136,08037,Eagle County,m42,same,64.64
+CO-P136,08041,El Paso County,m42,same,73.57
+CO-P136,08039,Elbert County,m42,same,81.88
+CO-P136,08043,Fremont County,m42,same,77.18
+CO-P136,08045,Garfield County,m42,same,66.49
+CO-P136,08047,Gilpin County,m42,same,66.02
+CO-P136,08049,Grand County,m42,same,67.77
+CO-P136,08051,Gunnison County,m42,same,57.40
+CO-P136,08053,Hinsdale County,m42,same,71.02
+CO-P136,08055,Huerfano County,m42,same,72.04
+CO-P136,08057,Jackson County,m42,same,70.35
+CO-P136,08059,Jefferson County,m42,same,61.21
+CO-P136,08061,Kiowa County,m42,same,79.22
+CO-P136,08063,Kit Carson County,m42,same,79.75
+CO-P136,08067,La Plata County,m42,same,58.93
+CO-P136,08065,Lake County,m42,same,64.34
+CO-P136,08069,Larimer County,m42,same,61.08
+CO-P136,08071,Las Animas County,m42,same,75.94
+CO-P136,08073,Lincoln County,m42,same,77.07
+CO-P136,08075,Logan County,m42,same,76.52
+CO-P136,08077,Mesa County,m42,same,73.66
+CO-P136,08079,Mineral County,m42,same,68.69
+CO-P136,08081,Moffat County,m42,same,79.58
+CO-P136,08083,Montezuma County,m42,same,68.25
+CO-P136,08085,Montrose County,m42,same,74.75
+CO-P136,08087,Morgan County,m42,same,76.33
+CO-P136,08089,Otero County,m42,same,74.24
+CO-P136,08091,Ouray County,m42,same,60.16
+CO-P136,08093,Park County,m42,same,70.53
+CO-P136,08095,Phillips County,m42,same,76.76
+CO-P136,08097,Pitkin County,m42,same,56.83
+CO-P136,08099,Prowers County,m42,same,75.17
+CO-P136,08101,Pueblo County,m42,same,74.62
+CO-P136,08103,Rio Blanco County,m42,same,78.51
+CO-P136,08105,Rio Grande County,m42,same,71.07
+CO-P136,08107,Routt County,m42,same,61.52
+CO-P136,08109,Saguache County,m42,same,64.62
+CO-P136,08111,San Juan County,m42,same,58.53
+CO-P136,08113,San Miguel County,m42,same,55.44
+CO-P136,08115,Sedgwick County,m42,same,79.82
+CO-P136,08117,Summit County,m42,same,61.72
+CO-P136,08119,Teller County,m42,same,78.20
+CO-P136,08121,Washington County,m42,same,77.09
+CO-P136,08123,Weld County,m42,same,74.46
+CO-P136,08125,Yuma County,m42,same,78.02
+CO-P137,08001,Adams County,m64,same,76.67
+CO-P137,08003,Alamosa County,m64,same,75.01
+CO-P137,08005,Arapahoe County,m64,same,78.34
+CO-P137,08007,Archuleta County,m64,same,75.75
+CO-P137,08009,Baca County,m64,same,49.97
+CO-P137,08011,Bent County,m64,same,59.36
+CO-P137,08013,Boulder County,m64,same,87.65
+CO-P137,08014,Broomfield County,m64,same,80.41
+CO-P137,08015,Chaffee County,m64,same,76.55
+CO-P137,08017,Cheyenne County,m64,same,52.64
+CO-P137,08019,Clear Creek County,m64,same,77.21
+CO-P137,08021,Conejos County,m64,same,67.16
+CO-P137,08023,Costilla County,m64,same,74.99
+CO-P137,08025,Crowley County,m64,same,58.70
+CO-P137,08027,Custer County,m64,same,61.73
+CO-P137,08029,Delta County,m64,same,70.85
+CO-P137,08031,Denver County,m64,same,86.94
+CO-P137,08033,Dolores County,m64,same,65.45
+CO-P137,08035,Douglas County,m64,same,71.29
+CO-P137,08037,Eagle County,m64,same,83.73
+CO-P137,08041,El Paso County,m64,same,71.52
+CO-P137,08039,Elbert County,m64,same,55.93
+CO-P137,08043,Fremont County,m64,same,65.01
+CO-P137,08045,Garfield County,m64,same,77.65
+CO-P137,08047,Gilpin County,m64,same,69.38
+CO-P137,08049,Grand County,m64,same,75.57
+CO-P137,08051,Gunnison County,m64,same,83.69
+CO-P137,08053,Hinsdale County,m64,same,74.83
+CO-P137,08055,Huerfano County,m64,same,70.82
+CO-P137,08057,Jackson County,m64,same,57.95
+CO-P137,08059,Jefferson County,m64,same,77.01
+CO-P137,08061,Kiowa County,m64,same,59.13
+CO-P137,08063,Kit Carson County,m64,same,64.59
+CO-P137,08067,La Plata County,m64,same,80.88
+CO-P137,08065,Lake County,m64,same,78.51
+CO-P137,08069,Larimer County,m64,same,78.72
+CO-P137,08071,Las Animas County,m64,same,69.49
+CO-P137,08073,Lincoln County,m64,same,55.89
+CO-P137,08075,Logan County,m64,same,63.30
+CO-P137,08077,Mesa County,m64,same,69.26
+CO-P137,08079,Mineral County,m64,same,74.04
+CO-P137,08081,Moffat County,m64,same,58.24
+CO-P137,08083,Montezuma County,m64,same,71.64
+CO-P137,08085,Montrose County,m64,same,68.08
+CO-P137,08087,Morgan County,m64,same,60.49
+CO-P137,08089,Otero County,m64,same,61.04
+CO-P137,08091,Ouray County,m64,same,81.47
+CO-P137,08093,Park County,m64,same,69.08
+CO-P137,08095,Phillips County,m64,same,57.30
+CO-P137,08097,Pitkin County,m64,same,87.75
+CO-P137,08099,Prowers County,m64,same,57.16
+CO-P137,08101,Pueblo County,m64,same,68.63
+CO-P137,08103,Rio Blanco County,m64,same,54.44
+CO-P137,08105,Rio Grande County,m64,same,71.20
+CO-P137,08107,Routt County,m64,same,83.82
+CO-P137,08109,Saguache County,m64,same,73.04
+CO-P137,08111,San Juan County,m64,same,83.24
+CO-P137,08113,San Miguel County,m64,same,87.96
+CO-P137,08115,Sedgwick County,m64,same,60.60
+CO-P137,08117,Summit County,m64,same,84.91
+CO-P137,08119,Teller County,m64,same,63.45
+CO-P137,08121,Washington County,m64,same,48.09
+CO-P137,08123,Weld County,m64,same,70.57
+CO-P137,08125,Yuma County,m64,same,51.56
+MO-A3,29001,Adair County,m26,opposite,54.08
+MO-A3,29003,Andrew County,m26,opposite,58.11
+MO-A3,29005,Atchison County,m26,opposite,59.28
+MO-A3,29007,Audrain County,m26,opposite,57.64
+MO-A3,29009,Barry County,m26,opposite,69.43
+MO-A3,29011,Barton County,m26,opposite,77.94
+MO-A3,29013,Bates County,m26,opposite,64.11
+MO-A3,29015,Benton County,m26,opposite,62.54
+MO-A3,29017,Bollinger County,m26,opposite,78.94
+MO-A3,29019,Boone County,m26,opposite,33.10
+MO-A3,29021,Buchanan County,m26,opposite,49.61
+MO-A3,29023,Butler County,m26,opposite,67.13
+MO-A3,29025,Caldwell County,m26,opposite,63.45
+MO-A3,29027,Callaway County,m26,opposite,55.23
+MO-A3,29029,Camden County,m26,opposite,56.82
+MO-A3,29031,Cape Girardeau County,m26,opposite,62.65
+MO-A3,29033,Carroll County,m26,opposite,64.39
+MO-A3,29035,Carter County,m26,opposite,75.69
+MO-A3,29037,Cass County,m26,opposite,51.16
+MO-A3,29039,Cedar County,m26,opposite,70.97
+MO-A3,29041,Chariton County,m26,opposite,65.52
+MO-A3,29043,Christian County,m26,opposite,66.24
+MO-A3,29045,Clark County,m26,opposite,59.59
+MO-A3,29047,Clay County,m26,opposite,38.75
+MO-A3,29049,Clinton County,m26,opposite,56.13
+MO-A3,29051,Cole County,m26,opposite,57.39
+MO-A3,29053,Cooper County,m26,opposite,58.17
+MO-A3,29055,Crawford County,m26,opposite,68.00
+MO-A3,29057,Dade County,m26,opposite,72.60
+MO-A3,29059,Dallas County,m26,opposite,69.04
+MO-A3,29061,Daviess County,m26,opposite,66.21
+MO-A3,29063,DeKalb County,m26,opposite,65.17
+MO-A3,29065,Dent County,m26,opposite,74.33
+MO-A3,29067,Douglas County,m26,opposite,76.34
+MO-A3,29069,Dunklin County,m26,opposite,65.24
+MO-A3,29071,Franklin County,m26,opposite,60.42
+MO-A3,29073,Gasconade County,m26,opposite,67.62
+MO-A3,29075,Gentry County,m26,opposite,69.25
+MO-A3,29077,Greene County,m26,opposite,50.73
+MO-A3,29079,Grundy County,m26,opposite,70.03
+MO-A3,29081,Harrison County,m26,opposite,69.45
+MO-A3,29083,Henry County,m26,opposite,59.30
+MO-A3,29085,Hickory County,m26,opposite,64.17
+MO-A3,29087,Holt County,m26,opposite,67.53
+MO-A3,29089,Howard County,m26,opposite,57.75
+MO-A3,29091,Howell County,m26,opposite,71.39
+MO-A3,29093,Iron County,m26,opposite,69.17
+MO-A3,29095,Jackson County,m26,opposite,32.59
+MO-A3,29097,Jasper County,m26,opposite,62.69
+MO-A3,29099,Jefferson County,m26,opposite,52.88
+MO-A3,29101,Johnson County,m26,opposite,53.96
+MO-A3,29103,Knox County,m26,opposite,70.21
+MO-A3,29105,Laclede County,m26,opposite,70.53
+MO-A3,29107,Lafayette County,m26,opposite,57.00
+MO-A3,29109,Lawrence County,m26,opposite,70.77
+MO-A3,29111,Lewis County,m26,opposite,65.72
+MO-A3,29113,Lincoln County,m26,opposite,62.05
+MO-A3,29115,Linn County,m26,opposite,63.65
+MO-A3,29117,Livingston County,m26,opposite,64.68
+MO-A3,29121,Macon County,m26,opposite,68.01
+MO-A3,29123,Madison County,m26,opposite,69.39
+MO-A3,29125,Maries County,m26,opposite,74.80
+MO-A3,29127,Marion County,m26,opposite,65.43
+MO-A3,29119,McDonald County,m26,opposite,70.00
+MO-A3,29129,Mercer County,m26,opposite,71.94
+MO-A3,29131,Miller County,m26,opposite,69.86
+MO-A3,29133,Mississippi County,m26,opposite,64.58
+MO-A3,29135,Moniteau County,m26,opposite,69.06
+MO-A3,29137,Monroe County,m26,opposite,67.98
+MO-A3,29139,Montgomery County,m26,opposite,65.23
+MO-A3,29141,Morgan County,m26,opposite,62.60
+MO-A3,29143,New Madrid County,m26,opposite,65.98
+MO-A3,29145,Newton County,m26,opposite,69.19
+MO-A3,29147,Nodaway County,m26,opposite,58.14
+MO-A3,29149,Oregon County,m26,opposite,71.06
+MO-A3,29151,Osage County,m26,opposite,78.41
+MO-A3,29153,Ozark County,m26,opposite,71.41
+MO-A3,29155,Pemiscot County,m26,opposite,60.29
+MO-A3,29157,Perry County,m26,opposite,71.75
+MO-A3,29159,Pettis County,m26,opposite,58.71
+MO-A3,29161,Phelps County,m26,opposite,59.45
+MO-A3,29163,Pike County,m26,opposite,66.56
+MO-A3,29165,Platte County,m26,opposite,37.67
+MO-A3,29167,Polk County,m26,opposite,69.82
+MO-A3,29169,Pulaski County,m26,opposite,57.37
+MO-A3,29171,Putnam County,m26,opposite,69.31
+MO-A3,29173,Ralls County,m26,opposite,68.29
+MO-A3,29175,Randolph County,m26,opposite,58.03
+MO-A3,29177,Ray County,m26,opposite,55.82
+MO-A3,29179,Reynolds County,m26,opposite,70.97
+MO-A3,29181,Ripley County,m26,opposite,72.64
+MO-A3,29195,Saline County,m26,opposite,51.04
+MO-A3,29197,Schuyler County,m26,opposite,66.07
+MO-A3,29199,Scotland County,m26,opposite,63.44
+MO-A3,29201,Scott County,m26,opposite,68.48
+MO-A3,29203,Shannon County,m26,opposite,72.76
+MO-A3,29205,Shelby County,m26,opposite,73.35
+MO-A3,29183,St. Charles County,m26,opposite,46.73
+MO-A3,29185,St. Clair County,m26,opposite,66.03
+MO-A3,29187,St. Francois County,m26,opposite,59.73
+MO-A3,29189,St. Louis County,m26,opposite,32.58
+MO-A3,29510,St. Louis city,m26,opposite,17.10
+MO-A3,29186,Ste. Genevieve County,m26,opposite,63.61
+MO-A3,29207,Stoddard County,m26,opposite,73.87
+MO-A3,29209,Stone County,m26,opposite,68.13
+MO-A3,29211,Sullivan County,m26,opposite,70.87
+MO-A3,29213,Taney County,m26,opposite,68.17
+MO-A3,29215,Texas County,m26,opposite,75.02
+MO-A3,29217,Vernon County,m26,opposite,63.76
+MO-A3,29219,Warren County,m26,opposite,59.40
+MO-A3,29221,Washington County,m26,opposite,69.65
+MO-A3,29223,Wayne County,m26,opposite,72.41
+MO-A3,29225,Webster County,m26,opposite,70.10
+MO-A3,29227,Worth County,m26,opposite,66.64
+MO-A3,29229,Wright County,m26,opposite,79.61
+MO-A6,29001,Adair County,m33,opposite,71.06
+MO-A6,29003,Andrew County,m33,opposite,77.96
+MO-A6,29005,Atchison County,m33,opposite,72.48
+MO-A6,29007,Audrain County,m33,opposite,76.86
+MO-A6,29009,Barry County,m33,opposite,77.35
+MO-A6,29011,Barton County,m33,opposite,71.57
+MO-A6,29013,Bates County,m33,opposite,76.71
+MO-A6,29015,Benton County,m33,opposite,79.23
+MO-A6,29017,Bollinger County,m33,opposite,76.23
+MO-A6,29019,Boone County,m33,opposite,84.71
+MO-A6,29021,Buchanan County,m33,opposite,81.92
+MO-A6,29023,Butler County,m33,opposite,80.69
+MO-A6,29025,Caldwell County,m33,opposite,78.30
+MO-A6,29027,Callaway County,m33,opposite,79.37
+MO-A6,29029,Camden County,m33,opposite,81.42
+MO-A6,29031,Cape Girardeau County,m33,opposite,78.93
+MO-A6,29033,Carroll County,m33,opposite,81.41
+MO-A6,29035,Carter County,m33,opposite,79.26
+MO-A6,29037,Cass County,m33,opposite,76.24
+MO-A6,29039,Cedar County,m33,opposite,78.23
+MO-A6,29041,Chariton County,m33,opposite,73.30
+MO-A6,29043,Christian County,m33,opposite,73.30
+MO-A6,29045,Clark County,m33,opposite,67.96
+MO-A6,29047,Clay County,m33,opposite,82.13
+MO-A6,29049,Clinton County,m33,opposite,79.64
+MO-A6,29051,Cole County,m33,opposite,79.02
+MO-A6,29053,Cooper County,m33,opposite,75.83
+MO-A6,29055,Crawford County,m33,opposite,80.49
+MO-A6,29057,Dade County,m33,opposite,78.05
+MO-A6,29059,Dallas County,m33,opposite,78.00
+MO-A6,29061,Daviess County,m33,opposite,81.30
+MO-A6,29063,DeKalb County,m33,opposite,79.47
+MO-A6,29065,Dent County,m33,opposite,74.22
+MO-A6,29067,Douglas County,m33,opposite,64.40
+MO-A6,29069,Dunklin County,m33,opposite,71.86
+MO-A6,29071,Franklin County,m33,opposite,77.31
+MO-A6,29073,Gasconade County,m33,opposite,80.50
+MO-A6,29075,Gentry County,m33,opposite,80.00
+MO-A6,29077,Greene County,m33,opposite,80.63
+MO-A6,29079,Grundy County,m33,opposite,85.73
+MO-A6,29081,Harrison County,m33,opposite,80.12
+MO-A6,29083,Henry County,m33,opposite,79.26
+MO-A6,29085,Hickory County,m33,opposite,83.59
+MO-A6,29087,Holt County,m33,opposite,77.85
+MO-A6,29089,Howard County,m33,opposite,78.45
+MO-A6,29091,Howell County,m33,opposite,78.56
+MO-A6,29093,Iron County,m33,opposite,82.88
+MO-A6,29095,Jackson County,m33,opposite,85.72
+MO-A6,29097,Jasper County,m33,opposite,73.34
+MO-A6,29099,Jefferson County,m33,opposite,79.12
+MO-A6,29101,Johnson County,m33,opposite,77.42
+MO-A6,29103,Knox County,m33,opposite,62.19
+MO-A6,29105,Laclede County,m33,opposite,71.13
+MO-A6,29107,Lafayette County,m33,opposite,78.36
+MO-A6,29109,Lawrence County,m33,opposite,78.69
+MO-A6,29111,Lewis County,m33,opposite,65.38
+MO-A6,29113,Lincoln County,m33,opposite,73.98
+MO-A6,29115,Linn County,m33,opposite,73.15
+MO-A6,29117,Livingston County,m33,opposite,81.20
+MO-A6,29121,Macon County,m33,opposite,65.25
+MO-A6,29123,Madison County,m33,opposite,78.24
+MO-A6,29125,Maries County,m33,opposite,82.16
+MO-A6,29127,Marion County,m33,opposite,69.76
+MO-A6,29119,McDonald County,m33,opposite,74.79
+MO-A6,29129,Mercer County,m33,opposite,80.00
+MO-A6,29131,Miller County,m33,opposite,82.29
+MO-A6,29133,Mississippi County,m33,opposite,78.05
+MO-A6,29135,Moniteau County,m33,opposite,78.21
+MO-A6,29137,Monroe County,m33,opposite,74.23
+MO-A6,29139,Montgomery County,m33,opposite,74.16
+MO-A6,29141,Morgan County,m33,opposite,77.55
+MO-A6,29143,New Madrid County,m33,opposite,78.27
+MO-A6,29145,Newton County,m33,opposite,72.59
+MO-A6,29147,Nodaway County,m33,opposite,78.38
+MO-A6,29149,Oregon County,m33,opposite,79.62
+MO-A6,29151,Osage County,m33,opposite,79.56
+MO-A6,29153,Ozark County,m33,opposite,76.49
+MO-A6,29155,Pemiscot County,m33,opposite,69.81
+MO-A6,29157,Perry County,m33,opposite,81.07
+MO-A6,29159,Pettis County,m33,opposite,78.19
+MO-A6,29161,Phelps County,m33,opposite,77.02
+MO-A6,29163,Pike County,m33,opposite,73.37
+MO-A6,29165,Platte County,m33,opposite,80.42
+MO-A6,29167,Polk County,m33,opposite,84.08
+MO-A6,29169,Pulaski County,m33,opposite,78.19
+MO-A6,29171,Putnam County,m33,opposite,72.01
+MO-A6,29173,Ralls County,m33,opposite,72.72
+MO-A6,29175,Randolph County,m33,opposite,69.86
+MO-A6,29177,Ray County,m33,opposite,80.48
+MO-A6,29179,Reynolds County,m33,opposite,83.16
+MO-A6,29181,Ripley County,m33,opposite,75.51
+MO-A6,29195,Saline County,m33,opposite,80.46
+MO-A6,29197,Schuyler County,m33,opposite,76.58
+MO-A6,29199,Scotland County,m33,opposite,73.85
+MO-A6,29201,Scott County,m33,opposite,77.18
+MO-A6,29203,Shannon County,m33,opposite,82.80
+MO-A6,29205,Shelby County,m33,opposite,58.90
+MO-A6,29183,St. Charles County,m33,opposite,76.99
+MO-A6,29185,St. Clair County,m33,opposite,76.21
+MO-A6,29187,St. Francois County,m33,opposite,82.47
+MO-A6,29189,St. Louis County,m33,opposite,83.23
+MO-A6,29510,St. Louis city,m33,opposite,90.94
+MO-A6,29186,Ste. Genevieve County,m33,opposite,84.46
+MO-A6,29207,Stoddard County,m33,opposite,76.79
+MO-A6,29209,Stone County,m33,opposite,72.20
+MO-A6,29211,Sullivan County,m33,opposite,68.04
+MO-A6,29213,Taney County,m33,opposite,67.33
+MO-A6,29215,Texas County,m33,opposite,74.94
+MO-A6,29217,Vernon County,m33,opposite,74.51
+MO-A6,29219,Warren County,m33,opposite,75.56
+MO-A6,29221,Washington County,m33,opposite,78.59
+MO-A6,29223,Wayne County,m33,opposite,78.56
+MO-A6,29225,Webster County,m33,opposite,74.17
+MO-A6,29227,Worth County,m33,opposite,74.18
+MO-A6,29229,Wright County,m33,opposite,67.97
+MO-A7,29001,Adair County,m34,same,13.55
+MO-A7,29003,Andrew County,m34,same,14.74
+MO-A7,29005,Atchison County,m34,same,18.23
+MO-A7,29007,Audrain County,m34,same,15.39
+MO-A7,29009,Barry County,m34,same,16.43
+MO-A7,29011,Barton County,m34,same,14.85
+MO-A7,29013,Bates County,m34,same,18.38
+MO-A7,29015,Benton County,m34,same,12.25
+MO-A7,29017,Bollinger County,m34,same,11.28
+MO-A7,29019,Boone County,m34,same,13.66
+MO-A7,29021,Buchanan County,m34,same,14.42
+MO-A7,29023,Butler County,m34,same,13.38
+MO-A7,29025,Caldwell County,m34,same,15.09
+MO-A7,29027,Callaway County,m34,same,16.02
+MO-A7,29029,Camden County,m34,same,14.10
+MO-A7,29031,Cape Girardeau County,m34,same,14.52
+MO-A7,29033,Carroll County,m34,same,13.58
+MO-A7,29035,Carter County,m34,same,13.39
+MO-A7,29037,Cass County,m34,same,21.85
+MO-A7,29039,Cedar County,m34,same,14.47
+MO-A7,29041,Chariton County,m34,same,14.29
+MO-A7,29043,Christian County,m34,same,21.11
+MO-A7,29045,Clark County,m34,same,23.53
+MO-A7,29047,Clay County,m34,same,18.19
+MO-A7,29049,Clinton County,m34,same,16.72
+MO-A7,29051,Cole County,m34,same,13.31
+MO-A7,29053,Cooper County,m34,same,18.16
+MO-A7,29055,Crawford County,m34,same,14.31
+MO-A7,29057,Dade County,m34,same,14.51
+MO-A7,29059,Dallas County,m34,same,15.15
+MO-A7,29061,Daviess County,m34,same,17.39
+MO-A7,29063,DeKalb County,m34,same,14.29
+MO-A7,29065,Dent County,m34,same,15.47
+MO-A7,29067,Douglas County,m34,same,16.57
+MO-A7,29069,Dunklin County,m34,same,22.87
+MO-A7,29071,Franklin County,m34,same,18.44
+MO-A7,29073,Gasconade County,m34,same,12.52
+MO-A7,29075,Gentry County,m34,same,14.59
+MO-A7,29077,Greene County,m34,same,15.97
+MO-A7,29079,Grundy County,m34,same,10.64
+MO-A7,29081,Harrison County,m34,same,14.87
+MO-A7,29083,Henry County,m34,same,16.32
+MO-A7,29085,Hickory County,m34,same,10.93
+MO-A7,29087,Holt County,m34,same,13.67
+MO-A7,29089,Howard County,m34,same,15.78
+MO-A7,29091,Howell County,m34,same,11.73
+MO-A7,29093,Iron County,m34,same,14.39
+MO-A7,29095,Jackson County,m34,same,14.57
+MO-A7,29097,Jasper County,m34,same,18.20
+MO-A7,29099,Jefferson County,m34,same,17.67
+MO-A7,29101,Johnson County,m34,same,17.03
+MO-A7,29103,Knox County,m34,same,15.62
+MO-A7,29105,Laclede County,m34,same,15.12
+MO-A7,29107,Lafayette County,m34,same,16.59
+MO-A7,29109,Lawrence County,m34,same,16.29
+MO-A7,29111,Lewis County,m34,same,18.04
+MO-A7,29113,Lincoln County,m34,same,22.02
+MO-A7,29115,Linn County,m34,same,14.27
+MO-A7,29117,Livingston County,m34,same,13.45
+MO-A7,29121,Macon County,m34,same,18.88
+MO-A7,29123,Madison County,m34,same,15.52
+MO-A7,29125,Maries County,m34,same,10.08
+MO-A7,29127,Marion County,m34,same,16.45
+MO-A7,29119,McDonald County,m34,same,20.07
+MO-A7,29129,Mercer County,m34,same,15.10
+MO-A7,29131,Miller County,m34,same,12.38
+MO-A7,29133,Mississippi County,m34,same,14.86
+MO-A7,29135,Moniteau County,m34,same,14.89
+MO-A7,29137,Monroe County,m34,same,17.59
+MO-A7,29139,Montgomery County,m34,same,17.64
+MO-A7,29141,Morgan County,m34,same,14.28
+MO-A7,29143,New Madrid County,m34,same,17.65
+MO-A7,29145,Newton County,m34,same,18.54
+MO-A7,29147,Nodaway County,m34,same,13.36
+MO-A7,29149,Oregon County,m34,same,14.21
+MO-A7,29151,Osage County,m34,same,11.72
+MO-A7,29153,Ozark County,m34,same,14.29
+MO-A7,29155,Pemiscot County,m34,same,31.76
+MO-A7,29157,Perry County,m34,same,12.31
+MO-A7,29159,Pettis County,m34,same,14.95
+MO-A7,29161,Phelps County,m34,same,16.08
+MO-A7,29163,Pike County,m34,same,17.44
+MO-A7,29165,Platte County,m34,same,20.32
+MO-A7,29167,Polk County,m34,same,11.52
+MO-A7,29169,Pulaski County,m34,same,16.25
+MO-A7,29171,Putnam County,m34,same,15.53
+MO-A7,29173,Ralls County,m34,same,17.92
+MO-A7,29175,Randolph County,m34,same,18.98
+MO-A7,29177,Ray County,m34,same,19.67
+MO-A7,29179,Reynolds County,m34,same,12.19
+MO-A7,29181,Ripley County,m34,same,11.55
+MO-A7,29195,Saline County,m34,same,14.21
+MO-A7,29197,Schuyler County,m34,same,15.21
+MO-A7,29199,Scotland County,m34,same,12.87
+MO-A7,29201,Scott County,m34,same,12.74
+MO-A7,29203,Shannon County,m34,same,8.02
+MO-A7,29205,Shelby County,m34,same,17.98
+MO-A7,29183,St. Charles County,m34,same,21.33
+MO-A7,29185,St. Clair County,m34,same,15.75
+MO-A7,29187,St. Francois County,m34,same,14.44
+MO-A7,29189,St. Louis County,m34,same,18.14
+MO-A7,29510,St. Louis city,m34,same,10.34
+MO-A7,29186,Ste. Genevieve County,m34,same,11.84
+MO-A7,29207,Stoddard County,m34,same,13.40
+MO-A7,29209,Stone County,m34,same,21.49
+MO-A7,29211,Sullivan County,m34,same,13.84
+MO-A7,29213,Taney County,m34,same,23.23
+MO-A7,29215,Texas County,m34,same,12.93
+MO-A7,29217,Vernon County,m34,same,17.24
+MO-A7,29219,Warren County,m34,same,19.01
+MO-A7,29221,Washington County,m34,same,16.46
+MO-A7,29223,Wayne County,m34,same,14.26
+MO-A7,29225,Webster County,m34,same,18.33
+MO-A7,29227,Worth County,m34,same,16.34
+MO-A7,29229,Wright County,m34,same,14.37
+MO-A8,29001,Adair County,m28,same,38.77
+MO-A8,29003,Andrew County,m28,same,50.12
+MO-A8,29005,Atchison County,m28,same,44.77
+MO-A8,29007,Audrain County,m28,same,49.00
+MO-A8,29009,Barry County,m28,same,39.43
+MO-A8,29011,Barton County,m28,same,46.72
+MO-A8,29013,Bates County,m28,same,46.17
+MO-A8,29015,Benton County,m28,same,45.51
+MO-A8,29017,Bollinger County,m28,same,39.96
+MO-A8,29019,Boone County,m28,same,42.73
+MO-A8,29021,Buchanan County,m28,same,49.10
+MO-A8,29023,Butler County,m28,same,39.98
+MO-A8,29025,Caldwell County,m28,same,41.46
+MO-A8,29027,Callaway County,m28,same,45.08
+MO-A8,29029,Camden County,m28,same,38.83
+MO-A8,29031,Cape Girardeau County,m28,same,42.60
+MO-A8,29033,Carroll County,m28,same,44.36
+MO-A8,29035,Carter County,m28,same,36.68
+MO-A8,29037,Cass County,m28,same,45.26
+MO-A8,29039,Cedar County,m28,same,44.12
+MO-A8,29041,Chariton County,m28,same,44.19
+MO-A8,29043,Christian County,m28,same,35.87
+MO-A8,29045,Clark County,m28,same,42.28
+MO-A8,29047,Clay County,m28,same,42.34
+MO-A8,29049,Clinton County,m28,same,43.19
+MO-A8,29051,Cole County,m28,same,43.16
+MO-A8,29053,Cooper County,m28,same,49.28
+MO-A8,29055,Crawford County,m28,same,36.71
+MO-A8,29057,Dade County,m28,same,42.83
+MO-A8,29059,Dallas County,m28,same,37.67
+MO-A8,29061,Daviess County,m28,same,41.81
+MO-A8,29063,DeKalb County,m28,same,43.79
+MO-A8,29065,Dent County,m28,same,34.48
+MO-A8,29067,Douglas County,m28,same,40.87
+MO-A8,29069,Dunklin County,m28,same,43.89
+MO-A8,29071,Franklin County,m28,same,40.43
+MO-A8,29073,Gasconade County,m28,same,39.33
+MO-A8,29075,Gentry County,m28,same,49.64
+MO-A8,29077,Greene County,m28,same,40.79
+MO-A8,29079,Grundy County,m28,same,45.69
+MO-A8,29081,Harrison County,m28,same,42.68
+MO-A8,29083,Henry County,m28,same,48.03
+MO-A8,29085,Hickory County,m28,same,39.63
+MO-A8,29087,Holt County,m28,same,41.80
+MO-A8,29089,Howard County,m28,same,45.25
+MO-A8,29091,Howell County,m28,same,34.37
+MO-A8,29093,Iron County,m28,same,36.59
+MO-A8,29095,Jackson County,m28,same,37.03
+MO-A8,29097,Jasper County,m28,same,45.01
+MO-A8,29099,Jefferson County,m28,same,39.65
+MO-A8,29101,Johnson County,m28,same,43.52
+MO-A8,29103,Knox County,m28,same,42.74
+MO-A8,29105,Laclede County,m28,same,40.70
+MO-A8,29107,Lafayette County,m28,same,44.81
+MO-A8,29109,Lawrence County,m28,same,41.08
+MO-A8,29111,Lewis County,m28,same,47.63
+MO-A8,29113,Lincoln County,m28,same,38.45
+MO-A8,29115,Linn County,m28,same,44.80
+MO-A8,29117,Livingston County,m28,same,48.82
+MO-A8,29121,Macon County,m28,same,37.95
+MO-A8,29123,Madison County,m28,same,32.84
+MO-A8,29125,Maries County,m28,same,31.45
+MO-A8,29127,Marion County,m28,same,41.94
+MO-A8,29119,McDonald County,m28,same,40.53
+MO-A8,29129,Mercer County,m28,same,42.65
+MO-A8,29131,Miller County,m28,same,38.48
+MO-A8,29133,Mississippi County,m28,same,44.64
+MO-A8,29135,Moniteau County,m28,same,42.38
+MO-A8,29137,Monroe County,m28,same,41.20
+MO-A8,29139,Montgomery County,m28,same,40.02
+MO-A8,29141,Morgan County,m28,same,39.52
+MO-A8,29143,New Madrid County,m28,same,46.01
+MO-A8,29145,Newton County,m28,same,40.40
+MO-A8,29147,Nodaway County,m28,same,39.26
+MO-A8,29149,Oregon County,m28,same,39.73
+MO-A8,29151,Osage County,m28,same,37.59
+MO-A8,29153,Ozark County,m28,same,38.29
+MO-A8,29155,Pemiscot County,m28,same,49.45
+MO-A8,29157,Perry County,m28,same,38.85
+MO-A8,29159,Pettis County,m28,same,48.92
+MO-A8,29161,Phelps County,m28,same,37.97
+MO-A8,29163,Pike County,m28,same,38.68
+MO-A8,29165,Platte County,m28,same,41.55
+MO-A8,29167,Polk County,m28,same,40.12
+MO-A8,29169,Pulaski County,m28,same,44.14
+MO-A8,29171,Putnam County,m28,same,43.39
+MO-A8,29173,Ralls County,m28,same,40.34
+MO-A8,29175,Randolph County,m28,same,49.12
+MO-A8,29177,Ray County,m28,same,41.35
+MO-A8,29179,Reynolds County,m28,same,29.24
+MO-A8,29181,Ripley County,m28,same,37.29
+MO-A8,29195,Saline County,m28,same,42.81
+MO-A8,29197,Schuyler County,m28,same,44.59
+MO-A8,29199,Scotland County,m28,same,37.80
+MO-A8,29201,Scott County,m28,same,40.09
+MO-A8,29203,Shannon County,m28,same,33.14
+MO-A8,29205,Shelby County,m28,same,47.13
+MO-A8,29183,St. Charles County,m28,same,37.89
+MO-A8,29185,St. Clair County,m28,same,42.64
+MO-A8,29187,St. Francois County,m28,same,42.38
+MO-A8,29189,St. Louis County,m28,same,35.44
+MO-A8,29510,St. Louis city,m28,same,30.78
+MO-A8,29186,Ste. Genevieve County,m28,same,41.61
+MO-A8,29207,Stoddard County,m28,same,37.45
+MO-A8,29209,Stone County,m28,same,43.10
+MO-A8,29211,Sullivan County,m28,same,41.98
+MO-A8,29213,Taney County,m28,same,43.39
+MO-A8,29215,Texas County,m28,same,35.49
+MO-A8,29217,Vernon County,m28,same,40.48
+MO-A8,29219,Warren County,m28,same,39.21
+MO-A8,29221,Washington County,m28,same,37.92
+MO-A8,29223,Wayne County,m28,same,33.97
+MO-A8,29225,Webster County,m28,same,40.36
+MO-A8,29227,Worth County,m28,same,39.04
+MO-A8,29229,Wright County,m28,same,34.16
+LA-CA1,22001,Acadia Parish,m33,same,70.68
+LA-CA1,22003,Allen Parish,m33,same,71.52
+LA-CA1,22005,Ascension Parish,m33,same,77.99
+LA-CA1,22007,Assumption Parish,m33,same,73.12
+LA-CA1,22009,Avoyelles Parish,m33,same,64.35
+LA-CA1,22011,Beauregard Parish,m33,same,75.28
+LA-CA1,22013,Bienville Parish,m33,same,69.67
+LA-CA1,22015,Bossier Parish,m33,same,76.44
+LA-CA1,22017,Caddo Parish,m33,same,74.46
+LA-CA1,22019,Calcasieu Parish,m33,same,74.95
+LA-CA1,22021,Caldwell Parish,m33,same,69.28
+LA-CA1,22023,Cameron Parish,m33,same,78.67
+LA-CA1,22025,Catahoula Parish,m33,same,59.07
+LA-CA1,22027,Claiborne Parish,m33,same,75.44
+LA-CA1,22029,Concordia Parish,m33,same,67.58
+LA-CA1,22031,De Soto Parish,m33,same,73.69
+LA-CA1,22033,East Baton Rouge Parish,m33,same,70.46
+LA-CA1,22035,East Carroll Parish,m33,same,64.84
+LA-CA1,22037,East Feliciana Parish,m33,same,70.05
+LA-CA1,22039,Evangeline Parish,m33,same,63.55
+LA-CA1,22041,Franklin Parish,m33,same,61.41
+LA-CA1,22043,Grant Parish,m33,same,73.27
+LA-CA1,22045,Iberia Parish,m33,same,72.24
+LA-CA1,22047,Iberville Parish,m33,same,70.30
+LA-CA1,22049,Jackson Parish,m33,same,72.60
+LA-CA1,22053,Jefferson Davis Parish,m33,same,70.25
+LA-CA1,22051,Jefferson Parish,m33,same,75.82
+LA-CA1,22059,LaSalle Parish,m33,same,75.95
+LA-CA1,22055,Lafayette Parish,m33,same,71.46
+LA-CA1,22057,Lafourche Parish,m33,same,77.04
+LA-CA1,22061,Lincoln Parish,m33,same,73.63
+LA-CA1,22063,Livingston Parish,m33,same,77.76
+LA-CA1,22065,Madison Parish,m33,same,66.42
+LA-CA1,22067,Morehouse Parish,m33,same,69.02
+LA-CA1,22069,Natchitoches Parish,m33,same,72.44
+LA-CA1,22071,Orleans Parish,m33,same,67.90
+LA-CA1,22073,Ouachita Parish,m33,same,70.58
+LA-CA1,22075,Plaquemines Parish,m33,same,75.51
+LA-CA1,22077,Pointe Coupee Parish,m33,same,71.27
+LA-CA1,22079,Rapides Parish,m33,same,70.76
+LA-CA1,22081,Red River Parish,m33,same,65.42
+LA-CA1,22083,Richland Parish,m33,same,66.20
+LA-CA1,22085,Sabine Parish,m33,same,66.64
+LA-CA1,22087,St. Bernard Parish,m33,same,74.79
+LA-CA1,22089,St. Charles Parish,m33,same,76.99
+LA-CA1,22091,St. Helena Parish,m33,same,69.06
+LA-CA1,22093,St. James Parish,m33,same,73.44
+LA-CA1,22095,St. John the Baptist Parish,m33,same,73.41
+LA-CA1,22097,St. Landry Parish,m33,same,65.64
+LA-CA1,22099,St. Martin Parish,m33,same,71.04
+LA-CA1,22101,St. Mary Parish,m33,same,76.11
+LA-CA1,22103,St. Tammany Parish,m33,same,78.63
+LA-CA1,22105,Tangipahoa Parish,m33,same,76.12
+LA-CA1,22107,Tensas Parish,m33,same,63.61
+LA-CA1,22109,Terrebonne Parish,m33,same,77.16
+LA-CA1,22111,Union Parish,m33,same,72.20
+LA-CA1,22113,Vermilion Parish,m33,same,71.74
+LA-CA1,22115,Vernon Parish,m33,same,71.87
+LA-CA1,22117,Washington Parish,m33,same,74.89
+LA-CA1,22119,Webster Parish,m33,same,72.89
+LA-CA1,22121,West Baton Rouge Parish,m33,same,71.86
+LA-CA1,22123,West Carroll Parish,m33,same,70.38
+LA-CA1,22125,West Feliciana Parish,m33,same,71.44
+LA-CA1,22127,Winn Parish,m33,same,68.65
+LA-CA2,22001,Acadia Parish,m36,same,31.79
+LA-CA2,22003,Allen Parish,m36,same,39.69
+LA-CA2,22005,Ascension Parish,m36,same,37.61
+LA-CA2,22007,Assumption Parish,m36,same,39.02
+LA-CA2,22009,Avoyelles Parish,m36,same,32.59
+LA-CA2,22011,Beauregard Parish,m36,same,38.53
+LA-CA2,22013,Bienville Parish,m36,same,45.05
+LA-CA2,22015,Bossier Parish,m36,same,43.75
+LA-CA2,22017,Caddo Parish,m36,same,48.19
+LA-CA2,22019,Calcasieu Parish,m36,same,42.16
+LA-CA2,22021,Caldwell Parish,m36,same,37.59
+LA-CA2,22023,Cameron Parish,m36,same,44.60
+LA-CA2,22025,Catahoula Parish,m36,same,34.99
+LA-CA2,22027,Claiborne Parish,m36,same,46.61
+LA-CA2,22029,Concordia Parish,m36,same,44.75
+LA-CA2,22031,De Soto Parish,m36,same,40.41
+LA-CA2,22033,East Baton Rouge Parish,m36,same,46.24
+LA-CA2,22035,East Carroll Parish,m36,same,45.96
+LA-CA2,22037,East Feliciana Parish,m36,same,33.35
+LA-CA2,22039,Evangeline Parish,m36,same,37.38
+LA-CA2,22041,Franklin Parish,m36,same,34.52
+LA-CA2,22043,Grant Parish,m36,same,38.87
+LA-CA2,22045,Iberia Parish,m36,same,36.47
+LA-CA2,22047,Iberville Parish,m36,same,42.07
+LA-CA2,22049,Jackson Parish,m36,same,39.00
+LA-CA2,22053,Jefferson Davis Parish,m36,same,39.38
+LA-CA2,22051,Jefferson Parish,m36,same,47.33
+LA-CA2,22059,LaSalle Parish,m36,same,54.26
+LA-CA2,22055,Lafayette Parish,m36,same,39.06
+LA-CA2,22057,Lafourche Parish,m36,same,40.62
+LA-CA2,22061,Lincoln Parish,m36,same,44.89
+LA-CA2,22063,Livingston Parish,m36,same,34.29
+LA-CA2,22065,Madison Parish,m36,same,41.58
+LA-CA2,22067,Morehouse Parish,m36,same,40.46
+LA-CA2,22069,Natchitoches Parish,m36,same,35.71
+LA-CA2,22071,Orleans Parish,m36,same,58.11
+LA-CA2,22073,Ouachita Parish,m36,same,41.22
+LA-CA2,22075,Plaquemines Parish,m36,same,43.17
+LA-CA2,22077,Pointe Coupee Parish,m36,same,38.53
+LA-CA2,22079,Rapides Parish,m36,same,38.99
+LA-CA2,22081,Red River Parish,m36,same,35.15
+LA-CA2,22083,Richland Parish,m36,same,36.08
+LA-CA2,22085,Sabine Parish,m36,same,33.47
+LA-CA2,22087,St. Bernard Parish,m36,same,44.54
+LA-CA2,22089,St. Charles Parish,m36,same,49.74
+LA-CA2,22091,St. Helena Parish,m36,same,42.69
+LA-CA2,22093,St. James Parish,m36,same,48.56
+LA-CA2,22095,St. John the Baptist Parish,m36,same,50.04
+LA-CA2,22097,St. Landry Parish,m36,same,35.56
+LA-CA2,22099,St. Martin Parish,m36,same,37.03
+LA-CA2,22101,St. Mary Parish,m36,same,40.28
+LA-CA2,22103,St. Tammany Parish,m36,same,41.54
+LA-CA2,22105,Tangipahoa Parish,m36,same,39.03
+LA-CA2,22107,Tensas Parish,m36,same,40.31
+LA-CA2,22109,Terrebonne Parish,m36,same,36.77
+LA-CA2,22111,Union Parish,m36,same,34.31
+LA-CA2,22113,Vermilion Parish,m36,same,31.57
+LA-CA2,22115,Vernon Parish,m36,same,38.80
+LA-CA2,22117,Washington Parish,m36,same,39.13
+LA-CA2,22119,Webster Parish,m36,same,45.78
+LA-CA2,22121,West Baton Rouge Parish,m36,same,41.20
+LA-CA2,22123,West Carroll Parish,m36,same,36.49
+LA-CA2,22125,West Feliciana Parish,m36,same,38.79
+LA-CA2,22127,Winn Parish,m36,same,33.55
+LA-CA5,22001,Acadia Parish,m45,same,53.59
+LA-CA5,22003,Allen Parish,m45,same,60.20
+LA-CA5,22005,Ascension Parish,m45,same,55.84
+LA-CA5,22007,Assumption Parish,m45,same,54.75
+LA-CA5,22009,Avoyelles Parish,m45,same,59.12
+LA-CA5,22011,Beauregard Parish,m45,same,59.08
+LA-CA5,22013,Bienville Parish,m45,same,59.13
+LA-CA5,22015,Bossier Parish,m45,same,64.18
+LA-CA5,22017,Caddo Parish,m45,same,62.37
+LA-CA5,22019,Calcasieu Parish,m45,same,56.23
+LA-CA5,22021,Caldwell Parish,m45,same,60.55
+LA-CA5,22023,Cameron Parish,m45,same,62.02
+LA-CA5,22025,Catahoula Parish,m45,same,55.91
+LA-CA5,22027,Claiborne Parish,m45,same,59.79
+LA-CA5,22029,Concordia Parish,m45,same,53.30
+LA-CA5,22031,De Soto Parish,m45,same,62.63
+LA-CA5,22033,East Baton Rouge Parish,m45,same,48.41
+LA-CA5,22035,East Carroll Parish,m45,same,57.65
+LA-CA5,22037,East Feliciana Parish,m45,same,58.65
+LA-CA5,22039,Evangeline Parish,m45,same,54.01
+LA-CA5,22041,Franklin Parish,m45,same,53.09
+LA-CA5,22043,Grant Parish,m45,same,66.31
+LA-CA5,22045,Iberia Parish,m45,same,58.89
+LA-CA5,22047,Iberville Parish,m45,same,52.77
+LA-CA5,22049,Jackson Parish,m45,same,58.86
+LA-CA5,22053,Jefferson Davis Parish,m45,same,59.07
+LA-CA5,22051,Jefferson Parish,m45,same,58.18
+LA-CA5,22059,LaSalle Parish,m45,same,64.67
+LA-CA5,22055,Lafayette Parish,m45,same,56.47
+LA-CA5,22057,Lafourche Parish,m45,same,55.88
+LA-CA5,22061,Lincoln Parish,m45,same,60.27
+LA-CA5,22063,Livingston Parish,m45,same,56.88
+LA-CA5,22065,Madison Parish,m45,same,52.29
+LA-CA5,22067,Morehouse Parish,m45,same,52.60
+LA-CA5,22069,Natchitoches Parish,m45,same,59.99
+LA-CA5,22071,Orleans Parish,m45,same,44.72
+LA-CA5,22073,Ouachita Parish,m45,same,55.55
+LA-CA5,22075,Plaquemines Parish,m45,same,58.03
+LA-CA5,22077,Pointe Coupee Parish,m45,same,56.45
+LA-CA5,22079,Rapides Parish,m45,same,62.29
+LA-CA5,22081,Red River Parish,m45,same,58.17
+LA-CA5,22083,Richland Parish,m45,same,54.88
+LA-CA5,22085,Sabine Parish,m45,same,58.44
+LA-CA5,22087,St. Bernard Parish,m45,same,60.90
+LA-CA5,22089,St. Charles Parish,m45,same,59.86
+LA-CA5,22091,St. Helena Parish,m45,same,59.12
+LA-CA5,22093,St. James Parish,m45,same,57.16
+LA-CA5,22095,St. John the Baptist Parish,m45,same,57.13
+LA-CA5,22097,St. Landry Parish,m45,same,52.57
+LA-CA5,22099,St. Martin Parish,m45,same,54.32
+LA-CA5,22101,St. Mary Parish,m45,same,57.03
+LA-CA5,22103,St. Tammany Parish,m45,same,57.86
+LA-CA5,22105,Tangipahoa Parish,m45,same,60.48
+LA-CA5,22107,Tensas Parish,m45,same,53.64
+LA-CA5,22109,Terrebonne Parish,m45,same,57.30
+LA-CA5,22111,Union Parish,m45,same,62.17
+LA-CA5,22113,Vermilion Parish,m45,same,54.81
+LA-CA5,22115,Vernon Parish,m45,same,64.17
+LA-CA5,22117,Washington Parish,m45,same,58.36
+LA-CA5,22119,Webster Parish,m45,same,61.69
+LA-CA5,22121,West Baton Rouge Parish,m45,same,53.54
+LA-CA5,22123,West Carroll Parish,m45,same,61.66
+LA-CA5,22125,West Feliciana Parish,m45,same,49.25
+LA-CA5,22127,Winn Parish,m45,same,58.21
+LA-CA6,22001,Acadia Parish,m25,same,58.70
+LA-CA6,22003,Allen Parish,m25,same,56.49
+LA-CA6,22005,Ascension Parish,m25,same,63.19
+LA-CA6,22007,Assumption Parish,m25,same,58.37
+LA-CA6,22009,Avoyelles Parish,m25,same,57.65
+LA-CA6,22011,Beauregard Parish,m25,same,61.31
+LA-CA6,22013,Bienville Parish,m25,same,64.42
+LA-CA6,22015,Bossier Parish,m25,same,67.23
+LA-CA6,22017,Caddo Parish,m25,same,65.06
+LA-CA6,22019,Calcasieu Parish,m25,same,64.25
+LA-CA6,22021,Caldwell Parish,m25,same,62.27
+LA-CA6,22023,Cameron Parish,m25,same,63.90
+LA-CA6,22025,Catahoula Parish,m25,same,63.82
+LA-CA6,22027,Claiborne Parish,m25,same,67.15
+LA-CA6,22029,Concordia Parish,m25,same,65.05
+LA-CA6,22031,De Soto Parish,m25,same,67.83
+LA-CA6,22033,East Baton Rouge Parish,m25,same,56.86
+LA-CA6,22035,East Carroll Parish,m25,same,64.10
+LA-CA6,22037,East Feliciana Parish,m25,same,57.83
+LA-CA6,22039,Evangeline Parish,m25,same,57.40
+LA-CA6,22041,Franklin Parish,m25,same,61.55
+LA-CA6,22043,Grant Parish,m25,same,60.58
+LA-CA6,22045,Iberia Parish,m25,same,58.60
+LA-CA6,22047,Iberville Parish,m25,same,56.79
+LA-CA6,22049,Jackson Parish,m25,same,60.46
+LA-CA6,22053,Jefferson Davis Parish,m25,same,59.41
+LA-CA6,22051,Jefferson Parish,m25,same,66.82
+LA-CA6,22059,LaSalle Parish,m25,same,78.32
+LA-CA6,22055,Lafayette Parish,m25,same,58.17
+LA-CA6,22057,Lafourche Parish,m25,same,60.01
+LA-CA6,22061,Lincoln Parish,m25,same,62.55
+LA-CA6,22063,Livingston Parish,m25,same,63.10
+LA-CA6,22065,Madison Parish,m25,same,64.52
+LA-CA6,22067,Morehouse Parish,m25,same,64.74
+LA-CA6,22069,Natchitoches Parish,m25,same,57.26
+LA-CA6,22071,Orleans Parish,m25,same,60.35
+LA-CA6,22073,Ouachita Parish,m25,same,64.71
+LA-CA6,22075,Plaquemines Parish,m25,same,65.76
+LA-CA6,22077,Pointe Coupee Parish,m25,same,56.97
+LA-CA6,22079,Rapides Parish,m25,same,61.91
+LA-CA6,22081,Red River Parish,m25,same,57.03
+LA-CA6,22083,Richland Parish,m25,same,61.09
+LA-CA6,22085,Sabine Parish,m25,same,59.91
+LA-CA6,22087,St. Bernard Parish,m25,same,66.12
+LA-CA6,22089,St. Charles Parish,m25,same,65.86
+LA-CA6,22091,St. Helena Parish,m25,same,54.57
+LA-CA6,22093,St. James Parish,m25,same,63.80
+LA-CA6,22095,St. John the Baptist Parish,m25,same,63.74
+LA-CA6,22097,St. Landry Parish,m25,same,57.32
+LA-CA6,22099,St. Martin Parish,m25,same,59.35
+LA-CA6,22101,St. Mary Parish,m25,same,60.57
+LA-CA6,22103,St. Tammany Parish,m25,same,67.54
+LA-CA6,22105,Tangipahoa Parish,m25,same,62.71
+LA-CA6,22107,Tensas Parish,m25,same,60.57
+LA-CA6,22109,Terrebonne Parish,m25,same,61.87
+LA-CA6,22111,Union Parish,m25,same,61.53
+LA-CA6,22113,Vermilion Parish,m25,same,58.21
+LA-CA6,22115,Vernon Parish,m25,same,61.54
+LA-CA6,22117,Washington Parish,m25,same,65.50
+LA-CA6,22119,Webster Parish,m25,same,65.01
+LA-CA6,22121,West Baton Rouge Parish,m25,same,59.45
+LA-CA6,22123,West Carroll Parish,m25,same,63.52
+LA-CA6,22125,West Feliciana Parish,m25,same,59.98
+LA-CA6,22127,Winn Parish,m25,same,59.35
+LA-CA7,22001,Acadia Parish,m35,same,69.34
+LA-CA7,22003,Allen Parish,m35,same,72.56
+LA-CA7,22005,Ascension Parish,m35,same,74.68
+LA-CA7,22007,Assumption Parish,m35,same,71.93
+LA-CA7,22009,Avoyelles Parish,m35,same,64.13
+LA-CA7,22011,Beauregard Parish,m35,same,78.64
+LA-CA7,22013,Bienville Parish,m35,same,69.89
+LA-CA7,22015,Bossier Parish,m35,same,78.39
+LA-CA7,22017,Caddo Parish,m35,same,77.61
+LA-CA7,22019,Calcasieu Parish,m35,same,76.52
+LA-CA7,22021,Caldwell Parish,m35,same,67.56
+LA-CA7,22023,Cameron Parish,m35,same,75.12
+LA-CA7,22025,Catahoula Parish,m35,same,58.51
+LA-CA7,22027,Claiborne Parish,m35,same,74.14
+LA-CA7,22029,Concordia Parish,m35,same,68.02
+LA-CA7,22031,De Soto Parish,m35,same,73.84
+LA-CA7,22033,East Baton Rouge Parish,m35,same,72.19
+LA-CA7,22035,East Carroll Parish,m35,same,67.45
+LA-CA7,22037,East Feliciana Parish,m35,same,67.78
+LA-CA7,22039,Evangeline Parish,m35,same,65.24
+LA-CA7,22041,Franklin Parish,m35,same,60.82
+LA-CA7,22043,Grant Parish,m35,same,69.98
+LA-CA7,22045,Iberia Parish,m35,same,69.82
+LA-CA7,22047,Iberville Parish,m35,same,68.10
+LA-CA7,22049,Jackson Parish,m35,same,71.04
+LA-CA7,22053,Jefferson Davis Parish,m35,same,73.13
+LA-CA7,22051,Jefferson Parish,m35,same,79.46
+LA-CA7,22059,LaSalle Parish,m35,same,76.01
+LA-CA7,22055,Lafayette Parish,m35,same,72.22
+LA-CA7,22057,Lafourche Parish,m35,same,75.53
+LA-CA7,22061,Lincoln Parish,m35,same,74.81
+LA-CA7,22063,Livingston Parish,m35,same,71.74
+LA-CA7,22065,Madison Parish,m35,same,66.30
+LA-CA7,22067,Morehouse Parish,m35,same,67.57
+LA-CA7,22069,Natchitoches Parish,m35,same,75.58
+LA-CA7,22071,Orleans Parish,m35,same,84.41
+LA-CA7,22073,Ouachita Parish,m35,same,71.23
+LA-CA7,22075,Plaquemines Parish,m35,same,79.18
+LA-CA7,22077,Pointe Coupee Parish,m35,same,68.76
+LA-CA7,22079,Rapides Parish,m35,same,72.51
+LA-CA7,22081,Red River Parish,m35,same,65.06
+LA-CA7,22083,Richland Parish,m35,same,67.19
+LA-CA7,22085,Sabine Parish,m35,same,67.08
+LA-CA7,22087,St. Bernard Parish,m35,same,78.65
+LA-CA7,22089,St. Charles Parish,m35,same,80.26
+LA-CA7,22091,St. Helena Parish,m35,same,66.43
+LA-CA7,22093,St. James Parish,m35,same,73.62
+LA-CA7,22095,St. John the Baptist Parish,m35,same,78.59
+LA-CA7,22097,St. Landry Parish,m35,same,65.97
+LA-CA7,22099,St. Martin Parish,m35,same,64.75
+LA-CA7,22101,St. Mary Parish,m35,same,74.91
+LA-CA7,22103,St. Tammany Parish,m35,same,81.09
+LA-CA7,22105,Tangipahoa Parish,m35,same,74.86
+LA-CA7,22107,Tensas Parish,m35,same,62.12
+LA-CA7,22109,Terrebonne Parish,m35,same,77.82
+LA-CA7,22111,Union Parish,m35,same,68.80
+LA-CA7,22113,Vermilion Parish,m35,same,68.31
+LA-CA7,22115,Vernon Parish,m35,same,76.48
+LA-CA7,22117,Washington Parish,m35,same,74.77
+LA-CA7,22119,Webster Parish,m35,same,76.61
+LA-CA7,22121,West Baton Rouge Parish,m35,same,71.27
+LA-CA7,22123,West Carroll Parish,m35,same,66.67
+LA-CA7,22125,West Feliciana Parish,m35,same,70.11
+LA-CA7,22127,Winn Parish,m35,same,68.51
+LA-CA9,22001,Acadia Parish,m25,same,58.70
+LA-CA9,22003,Allen Parish,m25,same,56.49
+LA-CA9,22005,Ascension Parish,m25,same,63.19
+LA-CA9,22007,Assumption Parish,m25,same,58.37
+LA-CA9,22009,Avoyelles Parish,m25,same,57.65
+LA-CA9,22011,Beauregard Parish,m25,same,61.31
+LA-CA9,22013,Bienville Parish,m25,same,64.42
+LA-CA9,22015,Bossier Parish,m25,same,67.23
+LA-CA9,22017,Caddo Parish,m25,same,65.06
+LA-CA9,22019,Calcasieu Parish,m25,same,64.25
+LA-CA9,22021,Caldwell Parish,m25,same,62.27
+LA-CA9,22023,Cameron Parish,m25,same,63.90
+LA-CA9,22025,Catahoula Parish,m25,same,63.82
+LA-CA9,22027,Claiborne Parish,m25,same,67.15
+LA-CA9,22029,Concordia Parish,m25,same,65.05
+LA-CA9,22031,De Soto Parish,m25,same,67.83
+LA-CA9,22033,East Baton Rouge Parish,m25,same,56.86
+LA-CA9,22035,East Carroll Parish,m25,same,64.10
+LA-CA9,22037,East Feliciana Parish,m25,same,57.83
+LA-CA9,22039,Evangeline Parish,m25,same,57.40
+LA-CA9,22041,Franklin Parish,m25,same,61.55
+LA-CA9,22043,Grant Parish,m25,same,60.58
+LA-CA9,22045,Iberia Parish,m25,same,58.60
+LA-CA9,22047,Iberville Parish,m25,same,56.79
+LA-CA9,22049,Jackson Parish,m25,same,60.46
+LA-CA9,22053,Jefferson Davis Parish,m25,same,59.41
+LA-CA9,22051,Jefferson Parish,m25,same,66.82
+LA-CA9,22059,LaSalle Parish,m25,same,78.32
+LA-CA9,22055,Lafayette Parish,m25,same,58.17
+LA-CA9,22057,Lafourche Parish,m25,same,60.01
+LA-CA9,22061,Lincoln Parish,m25,same,62.55
+LA-CA9,22063,Livingston Parish,m25,same,63.10
+LA-CA9,22065,Madison Parish,m25,same,64.52
+LA-CA9,22067,Morehouse Parish,m25,same,64.74
+LA-CA9,22069,Natchitoches Parish,m25,same,57.26
+LA-CA9,22071,Orleans Parish,m25,same,60.35
+LA-CA9,22073,Ouachita Parish,m25,same,64.71
+LA-CA9,22075,Plaquemines Parish,m25,same,65.76
+LA-CA9,22077,Pointe Coupee Parish,m25,same,56.97
+LA-CA9,22079,Rapides Parish,m25,same,61.91
+LA-CA9,22081,Red River Parish,m25,same,57.03
+LA-CA9,22083,Richland Parish,m25,same,61.09
+LA-CA9,22085,Sabine Parish,m25,same,59.91
+LA-CA9,22087,St. Bernard Parish,m25,same,66.12
+LA-CA9,22089,St. Charles Parish,m25,same,65.86
+LA-CA9,22091,St. Helena Parish,m25,same,54.57
+LA-CA9,22093,St. James Parish,m25,same,63.80
+LA-CA9,22095,St. John the Baptist Parish,m25,same,63.74
+LA-CA9,22097,St. Landry Parish,m25,same,57.32
+LA-CA9,22099,St. Martin Parish,m25,same,59.35
+LA-CA9,22101,St. Mary Parish,m25,same,60.57
+LA-CA9,22103,St. Tammany Parish,m25,same,67.54
+LA-CA9,22105,Tangipahoa Parish,m25,same,62.71
+LA-CA9,22107,Tensas Parish,m25,same,60.57
+LA-CA9,22109,Terrebonne Parish,m25,same,61.87
+LA-CA9,22111,Union Parish,m25,same,61.53
+LA-CA9,22113,Vermilion Parish,m25,same,58.21
+LA-CA9,22115,Vernon Parish,m25,same,61.54
+LA-CA9,22117,Washington Parish,m25,same,65.50
+LA-CA9,22119,Webster Parish,m25,same,65.01
+LA-CA9,22121,West Baton Rouge Parish,m25,same,59.45
+LA-CA9,22123,West Carroll Parish,m25,same,63.52
+LA-CA9,22125,West Feliciana Parish,m25,same,59.98
+LA-CA9,22127,Winn Parish,m25,same,59.35
+LA-CA10,22001,Acadia Parish,m33,same,70.68
+LA-CA10,22003,Allen Parish,m33,same,71.52
+LA-CA10,22005,Ascension Parish,m33,same,77.99
+LA-CA10,22007,Assumption Parish,m33,same,73.12
+LA-CA10,22009,Avoyelles Parish,m33,same,64.35
+LA-CA10,22011,Beauregard Parish,m33,same,75.28
+LA-CA10,22013,Bienville Parish,m33,same,69.67
+LA-CA10,22015,Bossier Parish,m33,same,76.44
+LA-CA10,22017,Caddo Parish,m33,same,74.46
+LA-CA10,22019,Calcasieu Parish,m33,same,74.95
+LA-CA10,22021,Caldwell Parish,m33,same,69.28
+LA-CA10,22023,Cameron Parish,m33,same,78.67
+LA-CA10,22025,Catahoula Parish,m33,same,59.07
+LA-CA10,22027,Claiborne Parish,m33,same,75.44
+LA-CA10,22029,Concordia Parish,m33,same,67.58
+LA-CA10,22031,De Soto Parish,m33,same,73.69
+LA-CA10,22033,East Baton Rouge Parish,m33,same,70.46
+LA-CA10,22035,East Carroll Parish,m33,same,64.84
+LA-CA10,22037,East Feliciana Parish,m33,same,70.05
+LA-CA10,22039,Evangeline Parish,m33,same,63.55
+LA-CA10,22041,Franklin Parish,m33,same,61.41
+LA-CA10,22043,Grant Parish,m33,same,73.27
+LA-CA10,22045,Iberia Parish,m33,same,72.24
+LA-CA10,22047,Iberville Parish,m33,same,70.30
+LA-CA10,22049,Jackson Parish,m33,same,72.60
+LA-CA10,22053,Jefferson Davis Parish,m33,same,70.25
+LA-CA10,22051,Jefferson Parish,m33,same,75.82
+LA-CA10,22059,LaSalle Parish,m33,same,75.95
+LA-CA10,22055,Lafayette Parish,m33,same,71.46
+LA-CA10,22057,Lafourche Parish,m33,same,77.04
+LA-CA10,22061,Lincoln Parish,m33,same,73.63
+LA-CA10,22063,Livingston Parish,m33,same,77.76
+LA-CA10,22065,Madison Parish,m33,same,66.42
+LA-CA10,22067,Morehouse Parish,m33,same,69.02
+LA-CA10,22069,Natchitoches Parish,m33,same,72.44
+LA-CA10,22071,Orleans Parish,m33,same,67.90
+LA-CA10,22073,Ouachita Parish,m33,same,70.58
+LA-CA10,22075,Plaquemines Parish,m33,same,75.51
+LA-CA10,22077,Pointe Coupee Parish,m33,same,71.27
+LA-CA10,22079,Rapides Parish,m33,same,70.76
+LA-CA10,22081,Red River Parish,m33,same,65.42
+LA-CA10,22083,Richland Parish,m33,same,66.20
+LA-CA10,22085,Sabine Parish,m33,same,66.64
+LA-CA10,22087,St. Bernard Parish,m33,same,74.79
+LA-CA10,22089,St. Charles Parish,m33,same,76.99
+LA-CA10,22091,St. Helena Parish,m33,same,69.06
+LA-CA10,22093,St. James Parish,m33,same,73.44
+LA-CA10,22095,St. John the Baptist Parish,m33,same,73.41
+LA-CA10,22097,St. Landry Parish,m33,same,65.64
+LA-CA10,22099,St. Martin Parish,m33,same,71.04
+LA-CA10,22101,St. Mary Parish,m33,same,76.11
+LA-CA10,22103,St. Tammany Parish,m33,same,78.63
+LA-CA10,22105,Tangipahoa Parish,m33,same,76.12
+LA-CA10,22107,Tensas Parish,m33,same,63.61
+LA-CA10,22109,Terrebonne Parish,m33,same,77.16
+LA-CA10,22111,Union Parish,m33,same,72.20
+LA-CA10,22113,Vermilion Parish,m33,same,71.74
+LA-CA10,22115,Vernon Parish,m33,same,71.87
+LA-CA10,22117,Washington Parish,m33,same,74.89
+LA-CA10,22119,Webster Parish,m33,same,72.89
+LA-CA10,22121,West Baton Rouge Parish,m33,same,71.86
+LA-CA10,22123,West Carroll Parish,m33,same,70.38
+LA-CA10,22125,West Feliciana Parish,m33,same,71.44
+LA-CA10,22127,Winn Parish,m33,same,68.65

@@ -1,0 +1,1207 @@
+measure_id,fips,county,matched_measure,direction,b2_yes_raw
+CA-P1,06001,Alameda County,m23,same,69.23
+CA-P1,06003,Alpine County,m23,same,56.69
+CA-P1,06005,Amador County,m23,same,37.97
+CA-P1,06007,Butte County,m23,same,47.10
+CA-P1,06009,Calaveras County,m23,same,37.67
+CA-P1,06011,Colusa County,m23,same,37.97
+CA-P1,06013,Contra Costa County,m23,same,58.91
+CA-P1,06015,Del Norte County,m23,same,41.88
+CA-P1,06017,El Dorado County,m23,same,38.93
+CA-P1,06019,Fresno County,m23,same,46.04
+CA-P1,06021,Glenn County,m23,same,35.55
+CA-P1,06023,Humboldt County,m23,same,58.36
+CA-P1,06025,Imperial County,m23,same,57.52
+CA-P1,06027,Inyo County,m23,same,44.71
+CA-P1,06029,Kern County,m23,same,42.13
+CA-P1,06031,Kings County,m23,same,42.72
+CA-P1,06033,Lake County,m23,same,50.32
+CA-P1,06035,Lassen County,m23,same,27.81
+CA-P1,06037,Los Angeles County,m23,same,64.36
+CA-P1,06039,Madera County,m23,same,38.91
+CA-P1,06041,Marin County,m23,same,67.36
+CA-P1,06043,Mariposa County,m23,same,39.45
+CA-P1,06045,Mendocino County,m23,same,60.95
+CA-P1,06047,Merced County,m23,same,51.01
+CA-P1,06049,Modoc County,m23,same,26.72
+CA-P1,06051,Mono County,m23,same,49.55
+CA-P1,06053,Monterey County,m23,same,59.74
+CA-P1,06055,Napa County,m23,same,57.91
+CA-P1,06057,Nevada County,m23,same,50.44
+CA-P1,06059,Orange County,m23,same,46.69
+CA-P1,06061,Placer County,m23,same,39.92
+CA-P1,06063,Plumas County,m23,same,37.25
+CA-P1,06065,Riverside County,m23,same,50.29
+CA-P1,06067,Sacramento County,m23,same,55.17
+CA-P1,06069,San Benito County,m23,same,47.97
+CA-P1,06071,San Bernardino County,m23,same,49.04
+CA-P1,06073,San Diego County,m23,same,52.83
+CA-P1,06075,San Francisco County,m23,same,74.69
+CA-P1,06077,San Joaquin County,m23,same,48.86
+CA-P1,06079,San Luis Obispo County,m23,same,48.39
+CA-P1,06081,San Mateo County,m23,same,62.37
+CA-P1,06083,Santa Barbara County,m23,same,54.64
+CA-P1,06085,Santa Clara County,m23,same,59.85
+CA-P1,06087,Santa Cruz County,m23,same,62.57
+CA-P1,06089,Shasta County,m23,same,34.21
+CA-P1,06091,Sierra County,m23,same,39.12
+CA-P1,06093,Siskiyou County,m23,same,41.20
+CA-P1,06095,Solano County,m23,same,55.16
+CA-P1,06097,Sonoma County,m23,same,61.45
+CA-P1,06099,Stanislaus County,m23,same,50.08
+CA-P1,06101,Sutter County,m23,same,39.91
+CA-P1,06103,Tehama County,m23,same,33.33
+CA-P1,06105,Trinity County,m23,same,40.56
+CA-P1,06107,Tulare County,m23,same,42.65
+CA-P1,06109,Tuolumne County,m23,same,41.64
+CA-P1,06111,Ventura County,m23,same,51.97
+CA-P1,06113,Yolo County,m23,same,60.18
+CA-P1,06115,Yuba County,m23,same,40.61
+CA-P3,06001,Alameda County,m06,same,74.23
+CA-P3,06003,Alpine County,m06,same,63.06
+CA-P3,06005,Amador County,m06,same,49.21
+CA-P3,06007,Butte County,m06,same,59.50
+CA-P3,06009,Calaveras County,m06,same,53.55
+CA-P3,06011,Colusa County,m06,same,51.02
+CA-P3,06013,Contra Costa County,m06,same,64.34
+CA-P3,06015,Del Norte County,m06,same,55.92
+CA-P3,06017,El Dorado County,m06,same,49.88
+CA-P3,06019,Fresno County,m06,same,58.95
+CA-P3,06021,Glenn County,m06,same,51.26
+CA-P3,06023,Humboldt County,m06,same,68.78
+CA-P3,06025,Imperial County,m06,same,69.21
+CA-P3,06027,Inyo County,m06,same,54.39
+CA-P3,06029,Kern County,m06,same,54.68
+CA-P3,06031,Kings County,m06,same,55.68
+CA-P3,06033,Lake County,m06,same,63.45
+CA-P3,06035,Lassen County,m06,same,45.96
+CA-P3,06037,Los Angeles County,m06,same,67.48
+CA-P3,06039,Madera County,m06,same,52.41
+CA-P3,06041,Marin County,m06,same,66.86
+CA-P3,06043,Mariposa County,m06,same,51.61
+CA-P3,06045,Mendocino County,m06,same,69.89
+CA-P3,06047,Merced County,m06,same,63.94
+CA-P3,06049,Modoc County,m06,same,43.51
+CA-P3,06051,Mono County,m06,same,59.27
+CA-P3,06053,Monterey County,m06,same,68.71
+CA-P3,06055,Napa County,m06,same,62.89
+CA-P3,06057,Nevada County,m06,same,58.29
+CA-P3,06059,Orange County,m06,same,53.90
+CA-P3,06061,Placer County,m06,same,50.72
+CA-P3,06063,Plumas County,m06,same,53.44
+CA-P3,06065,Riverside County,m06,same,60.00
+CA-P3,06067,Sacramento County,m06,same,64.03
+CA-P3,06069,San Benito County,m06,same,63.93
+CA-P3,06071,San Bernardino County,m06,same,60.82
+CA-P3,06073,San Diego County,m06,same,60.93
+CA-P3,06075,San Francisco County,m06,same,72.61
+CA-P3,06077,San Joaquin County,m06,same,63.20
+CA-P3,06079,San Luis Obispo County,m06,same,59.92
+CA-P3,06081,San Mateo County,m06,same,65.87
+CA-P3,06083,Santa Barbara County,m06,same,62.94
+CA-P3,06085,Santa Clara County,m06,same,66.61
+CA-P3,06087,Santa Cruz County,m06,same,73.49
+CA-P3,06089,Shasta County,m06,same,49.98
+CA-P3,06091,Sierra County,m06,same,52.00
+CA-P3,06093,Siskiyou County,m06,same,55.37
+CA-P3,06095,Solano County,m06,same,65.02
+CA-P3,06097,Sonoma County,m06,same,67.23
+CA-P3,06099,Stanislaus County,m06,same,60.24
+CA-P3,06101,Sutter County,m06,same,52.73
+CA-P3,06103,Tehama County,m06,same,48.96
+CA-P3,06105,Trinity County,m06,same,57.56
+CA-P3,06107,Tulare County,m06,same,54.07
+CA-P3,06109,Tuolumne County,m06,same,53.04
+CA-P3,06111,Ventura County,m06,same,58.76
+CA-P3,06113,Yolo County,m06,same,68.89
+CA-P3,06115,Yuba County,m06,same,52.78
+CA-P38,06001,Alameda County,m35,same,60.71
+CA-P38,06003,Alpine County,m35,same,57.48
+CA-P38,06005,Amador County,m35,same,33.68
+CA-P38,06007,Butte County,m35,same,43.04
+CA-P38,06009,Calaveras County,m35,same,35.33
+CA-P38,06011,Colusa County,m35,same,36.75
+CA-P38,06013,Contra Costa County,m35,same,56.45
+CA-P38,06015,Del Norte County,m35,same,35.89
+CA-P38,06017,El Dorado County,m35,same,38.22
+CA-P38,06019,Fresno County,m35,same,46.82
+CA-P38,06021,Glenn County,m35,same,32.97
+CA-P38,06023,Humboldt County,m35,same,49.15
+CA-P38,06025,Imperial County,m35,same,56.04
+CA-P38,06027,Inyo County,m35,same,40.84
+CA-P38,06029,Kern County,m35,same,42.20
+CA-P38,06031,Kings County,m35,same,39.52
+CA-P38,06033,Lake County,m35,same,46.34
+CA-P38,06035,Lassen County,m35,same,24.87
+CA-P38,06037,Los Angeles County,m35,same,53.19
+CA-P38,06039,Madera County,m35,same,38.67
+CA-P38,06041,Marin County,m35,same,57.21
+CA-P38,06043,Mariposa County,m35,same,34.37
+CA-P38,06045,Mendocino County,m35,same,53.74
+CA-P38,06047,Merced County,m35,same,48.93
+CA-P38,06049,Modoc County,m35,same,26.23
+CA-P38,06051,Mono County,m35,same,47.26
+CA-P38,06053,Monterey County,m35,same,56.23
+CA-P38,06055,Napa County,m35,same,53.03
+CA-P38,06057,Nevada County,m35,same,43.90
+CA-P38,06059,Orange County,m35,same,45.99
+CA-P38,06061,Placer County,m35,same,40.13
+CA-P38,06063,Plumas County,m35,same,34.59
+CA-P38,06065,Riverside County,m35,same,48.64
+CA-P38,06067,Sacramento County,m35,same,51.55
+CA-P38,06069,San Benito County,m35,same,51.30
+CA-P38,06071,San Bernardino County,m35,same,48.74
+CA-P38,06073,San Diego County,m35,same,52.59
+CA-P38,06075,San Francisco County,m35,same,55.56
+CA-P38,06077,San Joaquin County,m35,same,48.71
+CA-P38,06079,San Luis Obispo County,m35,same,43.82
+CA-P38,06081,San Mateo County,m35,same,58.37
+CA-P38,06083,Santa Barbara County,m35,same,47.38
+CA-P38,06085,Santa Clara County,m35,same,56.01
+CA-P38,06087,Santa Cruz County,m35,same,56.90
+CA-P38,06089,Shasta County,m35,same,30.64
+CA-P38,06091,Sierra County,m35,same,37.31
+CA-P38,06093,Siskiyou County,m35,same,35.47
+CA-P38,06095,Solano County,m35,same,52.41
+CA-P38,06097,Sonoma County,m35,same,54.29
+CA-P38,06099,Stanislaus County,m35,same,46.66
+CA-P38,06101,Sutter County,m35,same,37.82
+CA-P38,06103,Tehama County,m35,same,30.37
+CA-P38,06105,Trinity County,m35,same,37.79
+CA-P38,06107,Tulare County,m35,same,41.67
+CA-P38,06109,Tuolumne County,m35,same,36.29
+CA-P38,06111,Ventura County,m35,same,50.36
+CA-P38,06113,Yolo County,m35,same,54.83
+CA-P38,06115,Yuba County,m35,same,38.14
+CA-P39,06001,Alameda County,m38,opposite,26.06
+CA-P39,06003,Alpine County,m38,opposite,35.75
+CA-P39,06005,Amador County,m38,opposite,65.48
+CA-P39,06007,Butte County,m38,opposite,52.16
+CA-P39,06009,Calaveras County,m38,opposite,62.92
+CA-P39,06011,Colusa County,m38,opposite,63.93
+CA-P39,06013,Contra Costa County,m38,opposite,35.17
+CA-P39,06015,Del Norte County,m38,opposite,58.72
+CA-P39,06017,El Dorado County,m38,opposite,59.04
+CA-P39,06019,Fresno County,m38,opposite,53.23
+CA-P39,06021,Glenn County,m38,opposite,66.50
+CA-P39,06023,Humboldt County,m38,opposite,36.87
+CA-P39,06025,Imperial County,m38,opposite,47.17
+CA-P39,06027,Inyo County,m38,opposite,53.70
+CA-P39,06029,Kern County,m38,opposite,59.12
+CA-P39,06031,Kings County,m38,opposite,61.58
+CA-P39,06033,Lake County,m38,opposite,49.47
+CA-P39,06035,Lassen County,m38,opposite,74.61
+CA-P39,06037,Los Angeles County,m38,opposite,34.45
+CA-P39,06039,Madera County,m38,opposite,61.29
+CA-P39,06041,Marin County,m38,opposite,25.48
+CA-P39,06043,Mariposa County,m38,opposite,60.31
+CA-P39,06045,Mendocino County,m38,opposite,36.85
+CA-P39,06047,Merced County,m38,opposite,51.21
+CA-P39,06049,Modoc County,m38,opposite,70.11
+CA-P39,06051,Mono County,m38,opposite,45.65
+CA-P39,06053,Monterey County,m38,opposite,37.34
+CA-P39,06055,Napa County,m38,opposite,39.34
+CA-P39,06057,Nevada County,m38,opposite,47.15
+CA-P39,06059,Orange County,m38,opposite,50.22
+CA-P39,06061,Placer County,m38,opposite,58.32
+CA-P39,06063,Plumas County,m38,opposite,59.53
+CA-P39,06065,Riverside County,m38,opposite,49.87
+CA-P39,06067,Sacramento County,m38,opposite,43.12
+CA-P39,06069,San Benito County,m38,opposite,46.00
+CA-P39,06071,San Bernardino County,m38,opposite,47.92
+CA-P39,06073,San Diego County,m38,opposite,42.81
+CA-P39,06075,San Francisco County,m38,opposite,21.92
+CA-P39,06077,San Joaquin County,m38,opposite,48.95
+CA-P39,06079,San Luis Obispo County,m38,opposite,49.88
+CA-P39,06081,San Mateo County,m38,opposite,32.69
+CA-P39,06083,Santa Barbara County,m38,opposite,40.64
+CA-P39,06085,Santa Clara County,m38,opposite,35.53
+CA-P39,06087,Santa Cruz County,m38,opposite,28.23
+CA-P39,06089,Shasta County,m38,opposite,65.97
+CA-P39,06091,Sierra County,m38,opposite,58.79
+CA-P39,06093,Siskiyou County,m38,opposite,56.64
+CA-P39,06095,Solano County,m38,opposite,40.61
+CA-P39,06097,Sonoma County,m38,opposite,33.19
+CA-P39,06099,Stanislaus County,m38,opposite,53.46
+CA-P39,06101,Sutter County,m38,opposite,61.62
+CA-P39,06103,Tehama County,m38,opposite,67.70
+CA-P39,06105,Trinity County,m38,opposite,51.88
+CA-P39,06107,Tulare County,m38,opposite,58.87
+CA-P39,06109,Tuolumne County,m38,opposite,61.49
+CA-P39,06111,Ventura County,m38,opposite,46.32
+CA-P39,06113,Yolo County,m38,opposite,37.77
+CA-P39,06115,Yuba County,m38,opposite,59.90
+CA-P40,06001,Alameda County,m36,same,64.92
+CA-P40,06003,Alpine County,m36,same,55.79
+CA-P40,06005,Amador County,m36,same,25.83
+CA-P40,06007,Butte County,m36,same,38.19
+CA-P40,06009,Calaveras County,m36,same,27.12
+CA-P40,06011,Colusa County,m36,same,30.04
+CA-P40,06013,Contra Costa County,m36,same,54.77
+CA-P40,06015,Del Norte County,m36,same,35.77
+CA-P40,06017,El Dorado County,m36,same,31.38
+CA-P40,06019,Fresno County,m36,same,41.01
+CA-P40,06021,Glenn County,m36,same,25.62
+CA-P40,06023,Humboldt County,m36,same,54.28
+CA-P40,06025,Imperial County,m36,same,51.33
+CA-P40,06027,Inyo County,m36,same,39.31
+CA-P40,06029,Kern County,m36,same,35.26
+CA-P40,06031,Kings County,m36,same,34.47
+CA-P40,06033,Lake County,m36,same,42.20
+CA-P40,06035,Lassen County,m36,same,21.55
+CA-P40,06037,Los Angeles County,m36,same,53.54
+CA-P40,06039,Madera County,m36,same,32.12
+CA-P40,06041,Marin County,m36,same,61.48
+CA-P40,06043,Mariposa County,m36,same,30.69
+CA-P40,06045,Mendocino County,m36,same,52.19
+CA-P40,06047,Merced County,m36,same,39.56
+CA-P40,06049,Modoc County,m36,same,22.60
+CA-P40,06051,Mono County,m36,same,45.87
+CA-P40,06053,Monterey County,m36,same,51.32
+CA-P40,06055,Napa County,m36,same,49.16
+CA-P40,06057,Nevada County,m36,same,41.51
+CA-P40,06059,Orange County,m36,same,39.49
+CA-P40,06061,Placer County,m36,same,33.08
+CA-P40,06063,Plumas County,m36,same,31.61
+CA-P40,06065,Riverside County,m36,same,40.33
+CA-P40,06067,Sacramento County,m36,same,45.92
+CA-P40,06069,San Benito County,m36,same,42.80
+CA-P40,06071,San Bernardino County,m36,same,41.01
+CA-P40,06073,San Diego County,m36,same,44.06
+CA-P40,06075,San Francisco County,m36,same,70.90
+CA-P40,06077,San Joaquin County,m36,same,40.55
+CA-P40,06079,San Luis Obispo County,m36,same,38.55
+CA-P40,06081,San Mateo County,m36,same,58.65
+CA-P40,06083,Santa Barbara County,m36,same,47.73
+CA-P40,06085,Santa Clara County,m36,same,55.59
+CA-P40,06087,Santa Cruz County,m36,same,58.37
+CA-P40,06089,Shasta County,m36,same,26.63
+CA-P40,06091,Sierra County,m36,same,31.64
+CA-P40,06093,Siskiyou County,m36,same,35.65
+CA-P40,06095,Solano County,m36,same,48.75
+CA-P40,06097,Sonoma County,m36,same,53.63
+CA-P40,06099,Stanislaus County,m36,same,37.62
+CA-P40,06101,Sutter County,m36,same,30.09
+CA-P40,06103,Tehama County,m36,same,24.14
+CA-P40,06105,Trinity County,m36,same,35.19
+CA-P40,06107,Tulare County,m36,same,36.74
+CA-P40,06109,Tuolumne County,m36,same,29.89
+CA-P40,06111,Ventura County,m36,same,42.59
+CA-P40,06113,Yolo County,m36,same,54.50
+CA-P40,06115,Yuba County,m36,same,30.83
+CA-P41,06001,Alameda County,m04,same,39.09
+CA-P41,06003,Alpine County,m04,same,48.69
+CA-P41,06005,Amador County,m04,same,52.96
+CA-P41,06007,Butte County,m04,same,54.17
+CA-P41,06009,Calaveras County,m04,same,56.34
+CA-P41,06011,Colusa County,m04,same,53.84
+CA-P41,06013,Contra Costa County,m04,same,45.70
+CA-P41,06015,Del Norte County,m04,same,59.06
+CA-P41,06017,El Dorado County,m04,same,56.54
+CA-P41,06019,Fresno County,m04,same,50.88
+CA-P41,06021,Glenn County,m04,same,54.98
+CA-P41,06023,Humboldt County,m04,same,46.80
+CA-P41,06025,Imperial County,m04,same,61.66
+CA-P41,06027,Inyo County,m04,same,50.29
+CA-P41,06029,Kern County,m04,same,54.35
+CA-P41,06031,Kings County,m04,same,52.12
+CA-P41,06033,Lake County,m04,same,47.49
+CA-P41,06035,Lassen County,m04,same,59.52
+CA-P41,06037,Los Angeles County,m04,same,45.87
+CA-P41,06039,Madera County,m04,same,51.69
+CA-P41,06041,Marin County,m04,same,35.37
+CA-P41,06043,Mariposa County,m04,same,51.32
+CA-P41,06045,Mendocino County,m04,same,43.57
+CA-P41,06047,Merced County,m04,same,56.10
+CA-P41,06049,Modoc County,m04,same,50.52
+CA-P41,06051,Mono County,m04,same,49.46
+CA-P41,06053,Monterey County,m04,same,48.74
+CA-P41,06055,Napa County,m04,same,47.71
+CA-P41,06057,Nevada County,m04,same,53.58
+CA-P41,06059,Orange County,m04,same,57.11
+CA-P41,06061,Placer County,m04,same,55.64
+CA-P41,06063,Plumas County,m04,same,55.71
+CA-P41,06065,Riverside County,m04,same,56.24
+CA-P41,06067,Sacramento County,m04,same,53.16
+CA-P41,06069,San Benito County,m04,same,49.91
+CA-P41,06071,San Bernardino County,m04,same,56.32
+CA-P41,06073,San Diego County,m04,same,52.23
+CA-P41,06075,San Francisco County,m04,same,30.79
+CA-P41,06077,San Joaquin County,m04,same,57.39
+CA-P41,06079,San Luis Obispo County,m04,same,50.72
+CA-P41,06081,San Mateo County,m04,same,42.05
+CA-P41,06083,Santa Barbara County,m04,same,51.10
+CA-P41,06085,Santa Clara County,m04,same,46.83
+CA-P41,06087,Santa Cruz County,m04,same,40.33
+CA-P41,06089,Shasta County,m04,same,57.13
+CA-P41,06091,Sierra County,m04,same,53.98
+CA-P41,06093,Siskiyou County,m04,same,58.93
+CA-P41,06095,Solano County,m04,same,52.08
+CA-P41,06097,Sonoma County,m04,same,39.13
+CA-P41,06099,Stanislaus County,m04,same,58.58
+CA-P41,06101,Sutter County,m04,same,54.56
+CA-P41,06103,Tehama County,m04,same,56.24
+CA-P41,06105,Trinity County,m04,same,53.31
+CA-P41,06107,Tulare County,m04,same,54.72
+CA-P41,06109,Tuolumne County,m04,same,53.92
+CA-P41,06111,Ventura County,m04,same,52.38
+CA-P41,06113,Yolo County,m04,same,45.77
+CA-P41,06115,Yuba County,m04,same,56.41
+CA-P42,06001,Alameda County,m36,opposite,35.08
+CA-P42,06003,Alpine County,m36,opposite,44.21
+CA-P42,06005,Amador County,m36,opposite,74.17
+CA-P42,06007,Butte County,m36,opposite,61.81
+CA-P42,06009,Calaveras County,m36,opposite,72.88
+CA-P42,06011,Colusa County,m36,opposite,69.96
+CA-P42,06013,Contra Costa County,m36,opposite,45.23
+CA-P42,06015,Del Norte County,m36,opposite,64.23
+CA-P42,06017,El Dorado County,m36,opposite,68.62
+CA-P42,06019,Fresno County,m36,opposite,58.99
+CA-P42,06021,Glenn County,m36,opposite,74.38
+CA-P42,06023,Humboldt County,m36,opposite,45.72
+CA-P42,06025,Imperial County,m36,opposite,48.67
+CA-P42,06027,Inyo County,m36,opposite,60.69
+CA-P42,06029,Kern County,m36,opposite,64.74
+CA-P42,06031,Kings County,m36,opposite,65.53
+CA-P42,06033,Lake County,m36,opposite,57.80
+CA-P42,06035,Lassen County,m36,opposite,78.45
+CA-P42,06037,Los Angeles County,m36,opposite,46.46
+CA-P42,06039,Madera County,m36,opposite,67.88
+CA-P42,06041,Marin County,m36,opposite,38.52
+CA-P42,06043,Mariposa County,m36,opposite,69.31
+CA-P42,06045,Mendocino County,m36,opposite,47.81
+CA-P42,06047,Merced County,m36,opposite,60.44
+CA-P42,06049,Modoc County,m36,opposite,77.40
+CA-P42,06051,Mono County,m36,opposite,54.13
+CA-P42,06053,Monterey County,m36,opposite,48.68
+CA-P42,06055,Napa County,m36,opposite,50.84
+CA-P42,06057,Nevada County,m36,opposite,58.49
+CA-P42,06059,Orange County,m36,opposite,60.51
+CA-P42,06061,Placer County,m36,opposite,66.92
+CA-P42,06063,Plumas County,m36,opposite,68.39
+CA-P42,06065,Riverside County,m36,opposite,59.67
+CA-P42,06067,Sacramento County,m36,opposite,54.08
+CA-P42,06069,San Benito County,m36,opposite,57.20
+CA-P42,06071,San Bernardino County,m36,opposite,58.99
+CA-P42,06073,San Diego County,m36,opposite,55.94
+CA-P42,06075,San Francisco County,m36,opposite,29.10
+CA-P42,06077,San Joaquin County,m36,opposite,59.45
+CA-P42,06079,San Luis Obispo County,m36,opposite,61.45
+CA-P42,06081,San Mateo County,m36,opposite,41.35
+CA-P42,06083,Santa Barbara County,m36,opposite,52.27
+CA-P42,06085,Santa Clara County,m36,opposite,44.41
+CA-P42,06087,Santa Cruz County,m36,opposite,41.63
+CA-P42,06089,Shasta County,m36,opposite,73.37
+CA-P42,06091,Sierra County,m36,opposite,68.36
+CA-P42,06093,Siskiyou County,m36,opposite,64.35
+CA-P42,06095,Solano County,m36,opposite,51.25
+CA-P42,06097,Sonoma County,m36,opposite,46.37
+CA-P42,06099,Stanislaus County,m36,opposite,62.38
+CA-P42,06101,Sutter County,m36,opposite,69.91
+CA-P42,06103,Tehama County,m36,opposite,75.86
+CA-P42,06105,Trinity County,m36,opposite,64.81
+CA-P42,06107,Tulare County,m36,opposite,63.26
+CA-P42,06109,Tuolumne County,m36,opposite,70.11
+CA-P42,06111,Ventura County,m36,opposite,57.41
+CA-P42,06113,Yolo County,m36,opposite,45.50
+CA-P42,06115,Yuba County,m36,opposite,69.17
+CA-P43,06001,Alameda County,m36,opposite,35.08
+CA-P43,06003,Alpine County,m36,opposite,44.21
+CA-P43,06005,Amador County,m36,opposite,74.17
+CA-P43,06007,Butte County,m36,opposite,61.81
+CA-P43,06009,Calaveras County,m36,opposite,72.88
+CA-P43,06011,Colusa County,m36,opposite,69.96
+CA-P43,06013,Contra Costa County,m36,opposite,45.23
+CA-P43,06015,Del Norte County,m36,opposite,64.23
+CA-P43,06017,El Dorado County,m36,opposite,68.62
+CA-P43,06019,Fresno County,m36,opposite,58.99
+CA-P43,06021,Glenn County,m36,opposite,74.38
+CA-P43,06023,Humboldt County,m36,opposite,45.72
+CA-P43,06025,Imperial County,m36,opposite,48.67
+CA-P43,06027,Inyo County,m36,opposite,60.69
+CA-P43,06029,Kern County,m36,opposite,64.74
+CA-P43,06031,Kings County,m36,opposite,65.53
+CA-P43,06033,Lake County,m36,opposite,57.80
+CA-P43,06035,Lassen County,m36,opposite,78.45
+CA-P43,06037,Los Angeles County,m36,opposite,46.46
+CA-P43,06039,Madera County,m36,opposite,67.88
+CA-P43,06041,Marin County,m36,opposite,38.52
+CA-P43,06043,Mariposa County,m36,opposite,69.31
+CA-P43,06045,Mendocino County,m36,opposite,47.81
+CA-P43,06047,Merced County,m36,opposite,60.44
+CA-P43,06049,Modoc County,m36,opposite,77.40
+CA-P43,06051,Mono County,m36,opposite,54.13
+CA-P43,06053,Monterey County,m36,opposite,48.68
+CA-P43,06055,Napa County,m36,opposite,50.84
+CA-P43,06057,Nevada County,m36,opposite,58.49
+CA-P43,06059,Orange County,m36,opposite,60.51
+CA-P43,06061,Placer County,m36,opposite,66.92
+CA-P43,06063,Plumas County,m36,opposite,68.39
+CA-P43,06065,Riverside County,m36,opposite,59.67
+CA-P43,06067,Sacramento County,m36,opposite,54.08
+CA-P43,06069,San Benito County,m36,opposite,57.20
+CA-P43,06071,San Bernardino County,m36,opposite,58.99
+CA-P43,06073,San Diego County,m36,opposite,55.94
+CA-P43,06075,San Francisco County,m36,opposite,29.10
+CA-P43,06077,San Joaquin County,m36,opposite,59.45
+CA-P43,06079,San Luis Obispo County,m36,opposite,61.45
+CA-P43,06081,San Mateo County,m36,opposite,41.35
+CA-P43,06083,Santa Barbara County,m36,opposite,52.27
+CA-P43,06085,Santa Clara County,m36,opposite,44.41
+CA-P43,06087,Santa Cruz County,m36,opposite,41.63
+CA-P43,06089,Shasta County,m36,opposite,73.37
+CA-P43,06091,Sierra County,m36,opposite,68.36
+CA-P43,06093,Siskiyou County,m36,opposite,64.35
+CA-P43,06095,Solano County,m36,opposite,51.25
+CA-P43,06097,Sonoma County,m36,opposite,46.37
+CA-P43,06099,Stanislaus County,m36,opposite,62.38
+CA-P43,06101,Sutter County,m36,opposite,69.91
+CA-P43,06103,Tehama County,m36,opposite,75.86
+CA-P43,06105,Trinity County,m36,opposite,64.81
+CA-P43,06107,Tulare County,m36,opposite,63.26
+CA-P43,06109,Tuolumne County,m36,opposite,70.11
+CA-P43,06111,Ventura County,m36,opposite,57.41
+CA-P43,06113,Yolo County,m36,opposite,45.50
+CA-P43,06115,Yuba County,m36,opposite,69.17
+CA-P44,06001,Alameda County,m44,same,44.39
+CA-P44,06003,Alpine County,m44,same,48.25
+CA-P44,06005,Amador County,m44,same,21.20
+CA-P44,06007,Butte County,m44,same,29.48
+CA-P44,06009,Calaveras County,m44,same,20.95
+CA-P44,06011,Colusa County,m44,same,25.92
+CA-P44,06013,Contra Costa County,m44,same,37.74
+CA-P44,06015,Del Norte County,m44,same,34.05
+CA-P44,06017,El Dorado County,m44,same,25.45
+CA-P44,06019,Fresno County,m44,same,33.21
+CA-P44,06021,Glenn County,m44,same,22.56
+CA-P44,06023,Humboldt County,m44,same,39.87
+CA-P44,06025,Imperial County,m44,same,46.10
+CA-P44,06027,Inyo County,m44,same,26.77
+CA-P44,06029,Kern County,m44,same,28.82
+CA-P44,06031,Kings County,m44,same,30.09
+CA-P44,06033,Lake County,m44,same,31.70
+CA-P44,06035,Lassen County,m44,same,21.74
+CA-P44,06037,Los Angeles County,m44,same,41.21
+CA-P44,06039,Madera County,m44,same,28.19
+CA-P44,06041,Marin County,m44,same,35.54
+CA-P44,06043,Mariposa County,m44,same,24.25
+CA-P44,06045,Mendocino County,m44,same,37.50
+CA-P44,06047,Merced County,m44,same,32.99
+CA-P44,06049,Modoc County,m44,same,20.71
+CA-P44,06051,Mono County,m44,same,33.89
+CA-P44,06053,Monterey County,m44,same,41.66
+CA-P44,06055,Napa County,m44,same,32.69
+CA-P44,06057,Nevada County,m44,same,27.54
+CA-P44,06059,Orange County,m44,same,33.08
+CA-P44,06061,Placer County,m44,same,25.01
+CA-P44,06063,Plumas County,m44,same,24.75
+CA-P44,06065,Riverside County,m44,same,32.61
+CA-P44,06067,Sacramento County,m44,same,33.58
+CA-P44,06069,San Benito County,m44,same,37.32
+CA-P44,06071,San Bernardino County,m44,same,33.67
+CA-P44,06073,San Diego County,m44,same,36.24
+CA-P44,06075,San Francisco County,m44,same,46.69
+CA-P44,06077,San Joaquin County,m44,same,33.24
+CA-P44,06079,San Luis Obispo County,m44,same,29.56
+CA-P44,06081,San Mateo County,m44,same,38.09
+CA-P44,06083,Santa Barbara County,m44,same,38.25
+CA-P44,06085,Santa Clara County,m44,same,39.35
+CA-P44,06087,Santa Cruz County,m44,same,39.91
+CA-P44,06089,Shasta County,m44,same,20.61
+CA-P44,06091,Sierra County,m44,same,29.15
+CA-P44,06093,Siskiyou County,m44,same,30.59
+CA-P44,06095,Solano County,m44,same,36.79
+CA-P44,06097,Sonoma County,m44,same,34.62
+CA-P44,06099,Stanislaus County,m44,same,31.15
+CA-P44,06101,Sutter County,m44,same,25.50
+CA-P44,06103,Tehama County,m44,same,21.32
+CA-P44,06105,Trinity County,m44,same,25.36
+CA-P44,06107,Tulare County,m44,same,30.94
+CA-P44,06109,Tuolumne County,m44,same,22.07
+CA-P44,06111,Ventura County,m44,same,34.22
+CA-P44,06113,Yolo County,m44,same,35.64
+CA-P44,06115,Yuba County,m44,same,26.94
+MA-Q2,25001,Barnstable County,m16,same,47.72
+MA-Q2,25003,Berkshire County,m16,same,61.73
+MA-Q2,25005,Bristol County,m16,same,49.78
+MA-Q2,25007,Dukes County,m16,same,59.48
+MA-Q2,25009,Essex County,m16,same,52.96
+MA-Q2,25011,Franklin County,m16,same,61.33
+MA-Q2,25013,Hampden County,m16,same,54.97
+MA-Q2,25015,Hampshire County,m16,same,63.24
+MA-Q2,25017,Middlesex County,m16,same,56.49
+MA-Q2,25019,Nantucket County,m16,same,53.81
+MA-Q2,25021,Norfolk County,m16,same,51.38
+MA-Q2,25023,Plymouth County,m16,same,47.77
+MA-Q2,25025,Suffolk County,m16,same,64.98
+MA-Q2,25027,Worcester County,m16,same,50.65
+MA-Q3,25001,Barnstable County,m09,same,36.47
+MA-Q3,25003,Berkshire County,m09,same,46.56
+MA-Q3,25005,Bristol County,m09,same,37.08
+MA-Q3,25007,Dukes County,m09,same,53.42
+MA-Q3,25009,Essex County,m09,same,42.11
+MA-Q3,25011,Franklin County,m09,same,54.07
+MA-Q3,25013,Hampden County,m09,same,35.95
+MA-Q3,25015,Hampshire County,m09,same,55.46
+MA-Q3,25017,Middlesex County,m09,same,52.71
+MA-Q3,25019,Nantucket County,m09,same,45.04
+MA-Q3,25021,Norfolk County,m09,same,45.12
+MA-Q3,25023,Plymouth County,m09,same,34.80
+MA-Q3,25025,Suffolk County,m09,same,60.10
+MA-Q3,25027,Worcester County,m09,same,39.03
+MA-Q5,25001,Barnstable County,m10,opposite,52.05
+MA-Q5,25003,Berkshire County,m10,opposite,32.41
+MA-Q5,25005,Bristol County,m10,opposite,53.33
+MA-Q5,25007,Dukes County,m10,opposite,41.04
+MA-Q5,25009,Essex County,m10,opposite,50.43
+MA-Q5,25011,Franklin County,m10,opposite,31.89
+MA-Q5,25013,Hampden County,m10,opposite,50.67
+MA-Q5,25015,Hampshire County,m10,opposite,32.29
+MA-Q5,25017,Middlesex County,m10,opposite,44.25
+MA-Q5,25019,Nantucket County,m10,opposite,52.83
+MA-Q5,25021,Norfolk County,m10,opposite,51.52
+MA-Q5,25023,Plymouth County,m10,opposite,56.23
+MA-Q5,25025,Suffolk County,m10,opposite,36.16
+MA-Q5,25027,Worcester County,m10,opposite,51.71
+MA-Q8,25001,Barnstable County,m04,opposite,51.86
+MA-Q8,25003,Berkshire County,m04,opposite,41.26
+MA-Q8,25005,Bristol County,m04,opposite,45.68
+MA-Q8,25007,Dukes County,m04,opposite,34.24
+MA-Q8,25009,Essex County,m04,opposite,49.03
+MA-Q8,25011,Franklin County,m04,opposite,38.61
+MA-Q8,25013,Hampden County,m04,opposite,47.18
+MA-Q8,25015,Hampshire County,m04,opposite,37.58
+MA-Q8,25017,Middlesex County,m04,opposite,45.41
+MA-Q8,25019,Nantucket County,m04,opposite,36.23
+MA-Q8,25021,Norfolk County,m04,opposite,50.48
+MA-Q8,25023,Plymouth County,m04,opposite,49.69
+MA-Q8,25025,Suffolk County,m04,opposite,38.89
+MA-Q8,25027,Worcester County,m04,opposite,47.28
+WA-IP26645,53001,Adams County,m18,same,49.37
+WA-IP26645,53003,Asotin County,m18,same,42.02
+WA-IP26645,53005,Benton County,m18,same,48.83
+WA-IP26645,53007,Chelan County,m18,same,43.58
+WA-IP26645,53009,Clallam County,m18,same,36.14
+WA-IP26645,53011,Clark County,m18,same,38.42
+WA-IP26645,53013,Columbia County,m18,same,51.58
+WA-IP26645,53015,Cowlitz County,m18,same,43.89
+WA-IP26645,53017,Douglas County,m18,same,47.25
+WA-IP26645,53019,Ferry County,m18,same,48.71
+WA-IP26645,53021,Franklin County,m18,same,48.51
+WA-IP26645,53023,Garfield County,m18,same,53.87
+WA-IP26645,53025,Grant County,m18,same,50.24
+WA-IP26645,53027,Grays Harbor County,m18,same,40.26
+WA-IP26645,53029,Island County,m18,same,36.46
+WA-IP26645,53031,Jefferson County,m18,same,24.48
+WA-IP26645,53033,King County,m18,same,27.57
+WA-IP26645,53035,Kitsap County,m18,same,34.46
+WA-IP26645,53037,Kittitas County,m18,same,47.19
+WA-IP26645,53039,Klickitat County,m18,same,42.20
+WA-IP26645,53041,Lewis County,m18,same,50.47
+WA-IP26645,53043,Lincoln County,m18,same,56.05
+WA-IP26645,53045,Mason County,m18,same,40.83
+WA-IP26645,53047,Okanogan County,m18,same,41.54
+WA-IP26645,53049,Pacific County,m18,same,36.71
+WA-IP26645,53051,Pend Oreille County,m18,same,50.22
+WA-IP26645,53053,Pierce County,m18,same,38.64
+WA-IP26645,53055,San Juan County,m18,same,26.20
+WA-IP26645,53057,Skagit County,m18,same,39.64
+WA-IP26645,53059,Skamania County,m18,same,44.36
+WA-IP26645,53061,Snohomish County,m18,same,36.97
+WA-IP26645,53063,Spokane County,m18,same,41.16
+WA-IP26645,53065,Stevens County,m18,same,56.33
+WA-IP26645,53067,Thurston County,m18,same,33.32
+WA-IP26645,53069,Wahkiakum County,m18,same,42.67
+WA-IP26645,53071,Walla Walla County,m18,same,40.93
+WA-IP26645,53073,Whatcom County,m18,same,32.97
+WA-IP26645,53075,Whitman County,m18,same,35.28
+WA-IP26645,53077,Yakima County,m18,same,43.06
+WA-IL26001,53001,Adams County,m16,opposite,69.06
+WA-IL26001,53003,Asotin County,m16,opposite,51.80
+WA-IL26001,53005,Benton County,m16,opposite,62.47
+WA-IL26001,53007,Chelan County,m16,opposite,52.52
+WA-IL26001,53009,Clallam County,m16,opposite,48.08
+WA-IL26001,53011,Clark County,m16,opposite,43.08
+WA-IL26001,53013,Columbia County,m16,opposite,67.56
+WA-IL26001,53015,Cowlitz County,m16,opposite,56.66
+WA-IL26001,53017,Douglas County,m16,opposite,59.64
+WA-IL26001,53019,Ferry County,m16,opposite,66.78
+WA-IL26001,53021,Franklin County,m16,opposite,62.26
+WA-IL26001,53023,Garfield County,m16,opposite,69.79
+WA-IL26001,53025,Grant County,m16,opposite,67.23
+WA-IL26001,53027,Grays Harbor County,m16,opposite,55.86
+WA-IL26001,53029,Island County,m16,opposite,45.38
+WA-IL26001,53031,Jefferson County,m16,opposite,31.53
+WA-IL26001,53033,King County,m16,opposite,26.81
+WA-IL26001,53035,Kitsap County,m16,opposite,42.26
+WA-IL26001,53037,Kittitas County,m16,opposite,51.83
+WA-IL26001,53039,Klickitat County,m16,opposite,52.18
+WA-IL26001,53041,Lewis County,m16,opposite,67.28
+WA-IL26001,53043,Lincoln County,m16,opposite,74.18
+WA-IL26001,53045,Mason County,m16,opposite,52.90
+WA-IL26001,53047,Okanogan County,m16,opposite,56.67
+WA-IL26001,53049,Pacific County,m16,opposite,51.03
+WA-IL26001,53051,Pend Oreille County,m16,opposite,66.95
+WA-IL26001,53053,Pierce County,m16,opposite,47.15
+WA-IL26001,53055,San Juan County,m16,opposite,27.84
+WA-IL26001,53057,Skagit County,m16,opposite,48.49
+WA-IL26001,53059,Skamania County,m16,opposite,50.62
+WA-IL26001,53061,Snohomish County,m16,opposite,43.90
+WA-IL26001,53063,Spokane County,m16,opposite,53.63
+WA-IL26001,53065,Stevens County,m16,opposite,71.60
+WA-IL26001,53067,Thurston County,m16,opposite,42.44
+WA-IL26001,53069,Wahkiakum County,m16,opposite,56.42
+WA-IL26001,53071,Walla Walla County,m16,opposite,50.59
+WA-IL26001,53073,Whatcom County,m16,opposite,40.09
+WA-IL26001,53075,Whitman County,m16,opposite,43.41
+WA-IL26001,53077,Yakima County,m16,opposite,53.51
+FL-A3,12001,Alachua County,m06,same,42.61
+FL-A3,12003,Baker County,m06,same,60.04
+FL-A3,12005,Bay County,m06,same,69.29
+FL-A3,12007,Bradford County,m06,same,59.22
+FL-A3,12009,Brevard County,m06,same,58.82
+FL-A3,12011,Broward County,m06,same,54.02
+FL-A3,12013,Calhoun County,m06,same,61.96
+FL-A3,12015,Charlotte County,m06,same,67.60
+FL-A3,12017,Citrus County,m06,same,60.32
+FL-A3,12019,Clay County,m06,same,62.23
+FL-A3,12021,Collier County,m06,same,70.92
+FL-A3,12023,Columbia County,m06,same,56.60
+FL-A3,12027,DeSoto County,m06,same,56.81
+FL-A3,12029,Dixie County,m06,same,55.41
+FL-A3,12031,Duval County,m06,same,55.90
+FL-A3,12033,Escambia County,m06,same,60.77
+FL-A3,12035,Flagler County,m06,same,63.85
+FL-A3,12037,Franklin County,m06,same,59.31
+FL-A3,12039,Gadsden County,m06,same,43.89
+FL-A3,12041,Gilchrist County,m06,same,59.10
+FL-A3,12043,Glades County,m06,same,56.55
+FL-A3,12045,Gulf County,m06,same,66.16
+FL-A3,12047,Hamilton County,m06,same,53.59
+FL-A3,12049,Hardee County,m06,same,53.02
+FL-A3,12051,Hendry County,m06,same,56.12
+FL-A3,12053,Hernando County,m06,same,62.65
+FL-A3,12055,Highlands County,m06,same,54.91
+FL-A3,12057,Hillsborough County,m06,same,53.72
+FL-A3,12059,Holmes County,m06,same,67.08
+FL-A3,12061,Indian River County,m06,same,58.96
+FL-A3,12063,Jackson County,m06,same,60.66
+FL-A3,12065,Jefferson County,m06,same,48.71
+FL-A3,12067,Lafayette County,m06,same,50.18
+FL-A3,12069,Lake County,m06,same,62.88
+FL-A3,12071,Lee County,m06,same,68.76
+FL-A3,12073,Leon County,m06,same,42.32
+FL-A3,12075,Levy County,m06,same,58.22
+FL-A3,12077,Liberty County,m06,same,57.97
+FL-A3,12079,Madison County,m06,same,48.46
+FL-A3,12081,Manatee County,m06,same,63.27
+FL-A3,12083,Marion County,m06,same,58.63
+FL-A3,12085,Martin County,m06,same,63.28
+FL-A3,12086,Miami-Dade County,m06,same,60.50
+FL-A3,12087,Monroe County,m06,same,64.39
+FL-A3,12089,Nassau County,m06,same,68.03
+FL-A3,12091,Okaloosa County,m06,same,66.55
+FL-A3,12093,Okeechobee County,m06,same,56.13
+FL-A3,12095,Orange County,m06,same,54.09
+FL-A3,12097,Osceola County,m06,same,60.31
+FL-A3,12099,Palm Beach County,m06,same,57.13
+FL-A3,12101,Pasco County,m06,same,59.86
+FL-A3,12103,Pinellas County,m06,same,54.43
+FL-A3,12105,Polk County,m06,same,57.51
+FL-A3,12107,Putnam County,m06,same,55.27
+FL-A3,12113,Santa Rosa County,m06,same,67.07
+FL-A3,12115,Sarasota County,m06,same,59.45
+FL-A3,12117,Seminole County,m06,same,54.65
+FL-A3,12109,St. Johns County,m06,same,61.93
+FL-A3,12111,St. Lucie County,m06,same,60.29
+FL-A3,12119,Sumter County,m06,same,70.83
+FL-A3,12121,Suwannee County,m06,same,57.84
+FL-A3,12123,Taylor County,m06,same,57.24
+FL-A3,12125,Union County,m06,same,60.16
+FL-A3,12127,Volusia County,m06,same,47.61
+FL-A3,12129,Wakulla County,m06,same,54.16
+FL-A3,12131,Walton County,m06,same,69.36
+FL-A3,12133,Washington County,m06,same,65.71
+GA-A1,13001,Appling County,m18,same,71.93
+GA-A1,13003,Atkinson County,m18,same,71.48
+GA-A1,13005,Bacon County,m18,same,76.69
+GA-A1,13007,Baker County,m18,same,72.66
+GA-A1,13009,Baldwin County,m18,same,73.35
+GA-A1,13011,Banks County,m18,same,80.35
+GA-A1,13013,Barrow County,m18,same,81.18
+GA-A1,13015,Bartow County,m18,same,82.27
+GA-A1,13017,Ben Hill County,m18,same,73.36
+GA-A1,13019,Berrien County,m18,same,76.29
+GA-A1,13021,Bibb County,m18,same,74.73
+GA-A1,13023,Bleckley County,m18,same,80.14
+GA-A1,13025,Brantley County,m18,same,77.79
+GA-A1,13027,Brooks County,m18,same,73.24
+GA-A1,13029,Bryan County,m18,same,80.46
+GA-A1,13031,Bulloch County,m18,same,76.45
+GA-A1,13033,Burke County,m18,same,76.78
+GA-A1,13035,Butts County,m18,same,80.79
+GA-A1,13037,Calhoun County,m18,same,67.46
+GA-A1,13039,Camden County,m18,same,76.48
+GA-A1,13043,Candler County,m18,same,78.60
+GA-A1,13045,Carroll County,m18,same,80.57
+GA-A1,13047,Catoosa County,m18,same,81.96
+GA-A1,13049,Charlton County,m18,same,73.22
+GA-A1,13051,Chatham County,m18,same,74.10
+GA-A1,13053,Chattahoochee County,m18,same,77.67
+GA-A1,13055,Chattooga County,m18,same,82.43
+GA-A1,13057,Cherokee County,m18,same,81.73
+GA-A1,13059,Clarke County,m18,same,70.48
+GA-A1,13061,Clay County,m18,same,69.82
+GA-A1,13063,Clayton County,m18,same,77.06
+GA-A1,13065,Clinch County,m18,same,77.50
+GA-A1,13067,Cobb County,m18,same,75.09
+GA-A1,13069,Coffee County,m18,same,72.27
+GA-A1,13071,Colquitt County,m18,same,71.65
+GA-A1,13073,Columbia County,m18,same,78.74
+GA-A1,13075,Cook County,m18,same,74.48
+GA-A1,13077,Coweta County,m18,same,80.49
+GA-A1,13079,Crawford County,m18,same,76.69
+GA-A1,13081,Crisp County,m18,same,72.53
+GA-A1,13083,Dade County,m18,same,77.94
+GA-A1,13085,Dawson County,m18,same,79.98
+GA-A1,13089,DeKalb County,m18,same,72.85
+GA-A1,13087,Decatur County,m18,same,65.56
+GA-A1,13091,Dodge County,m18,same,77.78
+GA-A1,13093,Dooly County,m18,same,73.28
+GA-A1,13095,Dougherty County,m18,same,74.78
+GA-A1,13097,Douglas County,m18,same,75.55
+GA-A1,13099,Early County,m18,same,66.06
+GA-A1,13101,Echols County,m18,same,71.69
+GA-A1,13103,Effingham County,m18,same,80.42
+GA-A1,13105,Elbert County,m18,same,74.52
+GA-A1,13107,Emanuel County,m18,same,NA
+GA-A1,13109,Evans County,m18,same,77.09
+GA-A1,13111,Fannin County,m18,same,81.21
+GA-A1,13113,Fayette County,m18,same,75.11
+GA-A1,13115,Floyd County,m18,same,79.87
+GA-A1,13117,Forsyth County,m18,same,76.67
+GA-A1,13119,Franklin County,m18,same,76.85
+GA-A1,13121,Fulton County,m18,same,73.43
+GA-A1,13123,Gilmer County,m18,same,79.21
+GA-A1,13125,Glascock County,m18,same,82.24
+GA-A1,13127,Glynn County,m18,same,75.34
+GA-A1,13129,Gordon County,m18,same,80.31
+GA-A1,13131,Grady County,m18,same,74.82
+GA-A1,13133,Greene County,m18,same,74.27
+GA-A1,13135,Gwinnett County,m18,same,75.71
+GA-A1,13137,Habersham County,m18,same,77.95
+GA-A1,13139,Hall County,m18,same,79.45
+GA-A1,13141,Hancock County,m18,same,72.57
+GA-A1,13143,Haralson County,m18,same,83.79
+GA-A1,13145,Harris County,m18,same,80.18
+GA-A1,13147,Hart County,m18,same,77.02
+GA-A1,13149,Heard County,m18,same,83.06
+GA-A1,13151,Henry County,m18,same,76.73
+GA-A1,13153,Houston County,m18,same,77.50
+GA-A1,13155,Irwin County,m18,same,75.88
+GA-A1,13157,Jackson County,m18,same,81.11
+GA-A1,13159,Jasper County,m18,same,79.80
+GA-A1,13161,Jeff Davis County,m18,same,77.57
+GA-A1,13163,Jefferson County,m18,same,70.69
+GA-A1,13165,Jenkins County,m18,same,74.89
+GA-A1,13167,Johnson County,m18,same,78.47
+GA-A1,13169,Jones County,m18,same,79.76
+GA-A1,13171,Lamar County,m18,same,78.39
+GA-A1,13173,Lanier County,m18,same,77.01
+GA-A1,13175,Laurens County,m18,same,77.42
+GA-A1,13177,Lee County,m18,same,74.84
+GA-A1,13179,Liberty County,m18,same,76.66
+GA-A1,13181,Lincoln County,m18,same,76.05
+GA-A1,13183,Long County,m18,same,80.36
+GA-A1,13185,Lowndes County,m18,same,76.56
+GA-A1,13187,Lumpkin County,m18,same,79.02
+GA-A1,13193,Macon County,m18,same,77.18
+GA-A1,13195,Madison County,m18,same,74.42
+GA-A1,13197,Marion County,m18,same,75.71
+GA-A1,13189,McDuffie County,m18,same,80.42
+GA-A1,13191,McIntosh County,m18,same,74.55
+GA-A1,13199,Meriwether County,m18,same,80.27
+GA-A1,13201,Miller County,m18,same,70.22
+GA-A1,13205,Mitchell County,m18,same,72.70
+GA-A1,13207,Monroe County,m18,same,79.15
+GA-A1,13209,Montgomery County,m18,same,76.81
+GA-A1,13211,Morgan County,m18,same,78.27
+GA-A1,13213,Murray County,m18,same,80.99
+GA-A1,13215,Muscogee County,m18,same,76.89
+GA-A1,13217,Newton County,m18,same,77.84
+GA-A1,13219,Oconee County,m18,same,75.40
+GA-A1,13221,Oglethorpe County,m18,same,75.79
+GA-A1,13223,Paulding County,m18,same,81.30
+GA-A1,13225,Peach County,m18,same,76.13
+GA-A1,13227,Pickens County,m18,same,79.98
+GA-A1,13229,Pierce County,m18,same,75.42
+GA-A1,13231,Pike County,m18,same,83.62
+GA-A1,13233,Polk County,m18,same,81.57
+GA-A1,13235,Pulaski County,m18,same,74.86
+GA-A1,13237,Putnam County,m18,same,77.04
+GA-A1,13239,Quitman County,m18,same,69.42
+GA-A1,13241,Rabun County,m18,same,76.95
+GA-A1,13243,Randolph County,m18,same,66.93
+GA-A1,13245,Richmond County,m18,same,75.92
+GA-A1,13247,Rockdale County,m18,same,73.63
+GA-A1,13249,Schley County,m18,same,78.87
+GA-A1,13251,Screven County,m18,same,72.81
+GA-A1,13253,Seminole County,m18,same,70.32
+GA-A1,13255,Spalding County,m18,same,79.09
+GA-A1,13257,Stephens County,m18,same,77.09
+GA-A1,13259,Stewart County,m18,same,75.21
+GA-A1,13261,Sumter County,m18,same,71.69
+GA-A1,13263,Talbot County,m18,same,76.56
+GA-A1,13265,Taliaferro County,m18,same,72.98
+GA-A1,13267,Tattnall County,m18,same,77.92
+GA-A1,13269,Taylor County,m18,same,81.68
+GA-A1,13271,Telfair County,m18,same,78.82
+GA-A1,13273,Terrell County,m18,same,71.79
+GA-A1,13275,Thomas County,m18,same,74.79
+GA-A1,13277,Tift County,m18,same,74.75
+GA-A1,13279,Toombs County,m18,same,72.72
+GA-A1,13281,Towns County,m18,same,80.73
+GA-A1,13283,Treutlen County,m18,same,77.94
+GA-A1,13285,Troup County,m18,same,79.91
+GA-A1,13287,Turner County,m18,same,74.85
+GA-A1,13289,Twiggs County,m18,same,76.02
+GA-A1,13291,Union County,m18,same,79.81
+GA-A1,13293,Upson County,m18,same,81.59
+GA-A1,13295,Walker County,m18,same,83.10
+GA-A1,13297,Walton County,m18,same,80.87
+GA-A1,13299,Ware County,m18,same,73.76
+GA-A1,13301,Warren County,m18,same,74.54
+GA-A1,13303,Washington County,m18,same,74.74
+GA-A1,13305,Wayne County,m18,same,72.53
+GA-A1,13307,Webster County,m18,same,77.37
+GA-A1,13309,Wheeler County,m18,same,79.67
+GA-A1,13311,White County,m18,same,80.32
+GA-A1,13313,Whitfield County,m18,same,81.42
+GA-A1,13315,Wilcox County,m18,same,75.40
+GA-A1,13317,Wilkes County,m18,same,71.62
+GA-A1,13319,Wilkinson County,m18,same,77.16
+GA-A1,13321,Worth County,m18,same,74.20
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37001,Alamance County,m06,same,61.20
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37003,Alexander County,m06,same,76.85
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37005,Alleghany County,m06,same,74.15
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37007,Anson County,m06,same,49.97
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37009,Ashe County,m06,same,67.80
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37011,Avery County,m06,same,74.69
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37013,Beaufort County,m06,same,66.53
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37015,Bertie County,m06,same,45.31
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37017,Bladen County,m06,same,59.72
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37019,Brunswick County,m06,same,68.15
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37021,Buncombe County,m06,same,40.42
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37023,Burke County,m06,same,69.65
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37025,Cabarrus County,m06,same,62.19
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37027,Caldwell County,m06,same,75.65
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37029,Camden County,m06,same,79.53
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37031,Carteret County,m06,same,73.44
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37033,Caswell County,m06,same,61.21
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37035,Catawba County,m06,same,70.68
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37037,Chatham County,m06,same,45.67
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37039,Cherokee County,m06,same,77.71
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37041,Chowan County,m06,same,66.95
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37043,Clay County,m06,same,76.70
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37045,Cleveland County,m06,same,66.36
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37047,Columbus County,m06,same,66.77
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37049,Craven County,m06,same,65.42
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37051,Cumberland County,m06,same,50.69
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37053,Currituck County,m06,same,80.61
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37055,Dare County,m06,same,62.97
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37057,Davidson County,m06,same,77.12
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37059,Davie County,m06,same,76.61
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37061,Duplin County,m06,same,64.69
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37063,Durham County,m06,same,22.82
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37065,Edgecombe County,m06,same,43.29
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37067,Forsyth County,m06,same,49.88
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37069,Franklin County,m06,same,60.10
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37071,Gaston County,m06,same,68.37
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37073,Gates County,m06,same,71.11
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37075,Graham County,m06,same,74.18
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37077,Granville County,m06,same,55.52
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37079,Greene County,m06,same,63.69
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37081,Guilford County,m06,same,47.24
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37083,Halifax County,m06,same,44.31
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37085,Harnett County,m06,same,66.42
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37087,Haywood County,m06,same,61.22
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37089,Henderson County,m06,same,64.33
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37091,Hertford County,m06,same,45.04
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37093,Hoke County,m06,same,51.84
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37095,Hyde County,m06,same,58.23
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37097,Iredell County,m06,same,71.63
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37099,Jackson County,m06,same,52.09
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37101,Johnston County,m06,same,68.78
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37103,Jones County,m06,same,64.01
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37105,Lee County,m06,same,61.41
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37107,Lenoir County,m06,same,58.77
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37109,Lincoln County,m06,same,74.24
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37113,Macon County,m06,same,68.95
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37115,Madison County,m06,same,55.82
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37117,Martin County,m06,same,56.56
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37111,McDowell County,m06,same,72.20
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37119,Mecklenburg County,m06,same,43.32
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37121,Mitchell County,m06,same,71.99
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37123,Montgomery County,m06,same,66.50
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37125,Moore County,m06,same,67.73
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37127,Nash County,m06,same,54.66
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37129,New Hanover County,m06,same,55.08
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37131,Northampton County,m06,same,43.66
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37133,Onslow County,m06,same,70.78
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37135,Orange County,m06,same,25.12
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37137,Pamlico County,m06,same,64.80
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37139,Pasquotank County,m06,same,55.94
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37141,Pender County,m06,same,70.08
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37143,Perquimans County,m06,same,75.21
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37145,Person County,m06,same,61.12
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37147,Pitt County,m06,same,54.37
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37149,Polk County,m06,same,63.72
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37151,Randolph County,m06,same,80.69
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37153,Richmond County,m06,same,61.46
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37155,Robeson County,m06,same,62.55
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37157,Rockingham County,m06,same,67.83
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37159,Rowan County,m06,same,69.61
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37161,Rutherford County,m06,same,72.91
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37163,Sampson County,m06,same,66.45
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37165,Scotland County,m06,same,61.58
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37167,Stanly County,m06,same,77.85
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37169,Stokes County,m06,same,77.12
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37171,Surry County,m06,same,76.39
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37173,Swain County,m06,same,62.59
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37175,Transylvania County,m06,same,58.94
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37177,Tyrrell County,m06,same,63.92
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37179,Union County,m06,same,69.49
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37181,Vance County,m06,same,48.07
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37183,Wake County,m06,same,43.07
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37185,Warren County,m06,same,41.40
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37187,Washington County,m06,same,49.53
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37189,Watauga County,m06,same,46.97
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37191,Wayne County,m06,same,62.34
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37193,Wilkes County,m06,same,76.46
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37195,Wilson County,m06,same,54.85
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37197,Yadkin County,m06,same,81.17
+NC-CONSTITUTIONALAMENDMENTREQUIREPHOTOIDFORVOTING,37199,Yancey County,m06,same,60.56
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37001,Alamance County,m03,same,60.62
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37003,Alexander County,m03,same,74.87
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37005,Alleghany County,m03,same,72.07
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37007,Anson County,m03,same,51.61
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37009,Ashe County,m03,same,68.68
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37011,Avery County,m03,same,72.63
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37013,Beaufort County,m03,same,64.13
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37015,Bertie County,m03,same,47.56
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37017,Bladen County,m03,same,59.18
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37019,Brunswick County,m03,same,67.46
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37021,Buncombe County,m03,same,41.47
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37023,Burke County,m03,same,67.12
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37025,Cabarrus County,m03,same,64.78
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37027,Caldwell County,m03,same,73.67
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37029,Camden County,m03,same,79.87
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37031,Carteret County,m03,same,69.45
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37033,Caswell County,m03,same,62.28
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37035,Catawba County,m03,same,68.77
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37037,Chatham County,m03,same,43.29
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37039,Cherokee County,m03,same,77.54
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37041,Chowan County,m03,same,69.88
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37043,Clay County,m03,same,79.17
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37045,Cleveland County,m03,same,67.26
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37047,Columbus County,m03,same,68.35
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37049,Craven County,m03,same,65.46
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37051,Cumberland County,m03,same,57.07
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37053,Currituck County,m03,same,83.31
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37055,Dare County,m03,same,63.85
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37057,Davidson County,m03,same,73.64
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37059,Davie County,m03,same,71.98
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37061,Duplin County,m03,same,64.82
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37063,Durham County,m03,same,26.97
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37065,Edgecombe County,m03,same,49.01
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37067,Forsyth County,m03,same,53.53
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37069,Franklin County,m03,same,60.67
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37071,Gaston County,m03,same,69.18
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37073,Gates County,m03,same,78.57
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37075,Graham County,m03,same,73.67
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37077,Granville County,m03,same,58.98
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37079,Greene County,m03,same,63.29
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37081,Guilford County,m03,same,50.96
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37083,Halifax County,m03,same,45.27
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37085,Harnett County,m03,same,65.82
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37087,Haywood County,m03,same,60.50
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37089,Henderson County,m03,same,62.56
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37091,Hertford County,m03,same,53.31
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37093,Hoke County,m03,same,59.13
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37095,Hyde County,m03,same,56.85
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37097,Iredell County,m03,same,72.25
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37099,Jackson County,m03,same,49.99
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37101,Johnston County,m03,same,68.97
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37103,Jones County,m03,same,65.94
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37105,Lee County,m03,same,61.17
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37107,Lenoir County,m03,same,59.51
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37109,Lincoln County,m03,same,71.90
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37113,Macon County,m03,same,66.61
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37115,Madison County,m03,same,55.77
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37117,Martin County,m03,same,56.75
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37111,McDowell County,m03,same,69.06
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37119,Mecklenburg County,m03,same,53.18
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37121,Mitchell County,m03,same,69.00
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37123,Montgomery County,m03,same,64.22
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37125,Moore County,m03,same,65.16
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37127,Nash County,m03,same,54.63
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37129,New Hanover County,m03,same,56.13
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37131,Northampton County,m03,same,45.87
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37133,Onslow County,m03,same,69.77
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37135,Orange County,m03,same,26.56
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37137,Pamlico County,m03,same,62.72
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37139,Pasquotank County,m03,same,56.91
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37141,Pender County,m03,same,69.65
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37143,Perquimans County,m03,same,77.25
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37145,Person County,m03,same,59.90
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37147,Pitt County,m03,same,57.29
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37149,Polk County,m03,same,61.93
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37151,Randolph County,m03,same,78.20
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37153,Richmond County,m03,same,65.03
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37155,Robeson County,m03,same,71.15
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37157,Rockingham County,m03,same,67.62
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37159,Rowan County,m03,same,68.55
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37161,Rutherford County,m03,same,72.53
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37163,Sampson County,m03,same,69.21
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37165,Scotland County,m03,same,69.69
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37167,Stanly County,m03,same,74.64
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37169,Stokes County,m03,same,73.33
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37171,Surry County,m03,same,74.36
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37173,Swain County,m03,same,63.07
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37175,Transylvania County,m03,same,56.73
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37177,Tyrrell County,m03,same,65.65
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37179,Union County,m03,same,70.87
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37181,Vance County,m03,same,55.42
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37183,Wake County,m03,same,44.61
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37185,Warren County,m03,same,44.87
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37187,Washington County,m03,same,53.12
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37189,Watauga County,m03,same,47.96
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37191,Wayne County,m03,same,64.29
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37193,Wilkes County,m03,same,73.39
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37195,Wilson County,m03,same,56.81
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37197,Yadkin County,m03,same,76.88
+NC-CONSTITUTIONALAMENDMENTMAXIMUMINCOMETAXRATEOF35,37199,Yancey County,m03,same,59.72
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37001,Alamance County,m03,same,60.62
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37003,Alexander County,m03,same,74.87
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37005,Alleghany County,m03,same,72.07
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37007,Anson County,m03,same,51.61
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37009,Ashe County,m03,same,68.68
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37011,Avery County,m03,same,72.63
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37013,Beaufort County,m03,same,64.13
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37015,Bertie County,m03,same,47.56
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37017,Bladen County,m03,same,59.18
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37019,Brunswick County,m03,same,67.46
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37021,Buncombe County,m03,same,41.47
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37023,Burke County,m03,same,67.12
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37025,Cabarrus County,m03,same,64.78
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37027,Caldwell County,m03,same,73.67
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37029,Camden County,m03,same,79.87
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37031,Carteret County,m03,same,69.45
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37033,Caswell County,m03,same,62.28
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37035,Catawba County,m03,same,68.77
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37037,Chatham County,m03,same,43.29
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37039,Cherokee County,m03,same,77.54
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37041,Chowan County,m03,same,69.88
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37043,Clay County,m03,same,79.17
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37045,Cleveland County,m03,same,67.26
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37047,Columbus County,m03,same,68.35
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37049,Craven County,m03,same,65.46
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37051,Cumberland County,m03,same,57.07
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37053,Currituck County,m03,same,83.31
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37055,Dare County,m03,same,63.85
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37057,Davidson County,m03,same,73.64
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37059,Davie County,m03,same,71.98
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37061,Duplin County,m03,same,64.82
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37063,Durham County,m03,same,26.97
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37065,Edgecombe County,m03,same,49.01
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37067,Forsyth County,m03,same,53.53
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37069,Franklin County,m03,same,60.67
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37071,Gaston County,m03,same,69.18
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37073,Gates County,m03,same,78.57
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37075,Graham County,m03,same,73.67
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37077,Granville County,m03,same,58.98
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37079,Greene County,m03,same,63.29
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37081,Guilford County,m03,same,50.96
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37083,Halifax County,m03,same,45.27
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37085,Harnett County,m03,same,65.82
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37087,Haywood County,m03,same,60.50
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37089,Henderson County,m03,same,62.56
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37091,Hertford County,m03,same,53.31
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37093,Hoke County,m03,same,59.13
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37095,Hyde County,m03,same,56.85
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37097,Iredell County,m03,same,72.25
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37099,Jackson County,m03,same,49.99
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37101,Johnston County,m03,same,68.97
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37103,Jones County,m03,same,65.94
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37105,Lee County,m03,same,61.17
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37107,Lenoir County,m03,same,59.51
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37109,Lincoln County,m03,same,71.90
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37113,Macon County,m03,same,66.61
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37115,Madison County,m03,same,55.77
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37117,Martin County,m03,same,56.75
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37111,McDowell County,m03,same,69.06
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37119,Mecklenburg County,m03,same,53.18
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37121,Mitchell County,m03,same,69.00
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37123,Montgomery County,m03,same,64.22
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37125,Moore County,m03,same,65.16
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37127,Nash County,m03,same,54.63
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37129,New Hanover County,m03,same,56.13
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37131,Northampton County,m03,same,45.87
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37133,Onslow County,m03,same,69.77
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37135,Orange County,m03,same,26.56
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37137,Pamlico County,m03,same,62.72
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37139,Pasquotank County,m03,same,56.91
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37141,Pender County,m03,same,69.65
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37143,Perquimans County,m03,same,77.25
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37145,Person County,m03,same,59.90
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37147,Pitt County,m03,same,57.29
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37149,Polk County,m03,same,61.93
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37151,Randolph County,m03,same,78.20
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37153,Richmond County,m03,same,65.03
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37155,Robeson County,m03,same,71.15
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37157,Rockingham County,m03,same,67.62
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37159,Rowan County,m03,same,68.55
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37161,Rutherford County,m03,same,72.53
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37163,Sampson County,m03,same,69.21
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37165,Scotland County,m03,same,69.69
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37167,Stanly County,m03,same,74.64
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37169,Stokes County,m03,same,73.33
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37171,Surry County,m03,same,74.36
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37173,Swain County,m03,same,63.07
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37175,Transylvania County,m03,same,56.73
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37177,Tyrrell County,m03,same,65.65
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37179,Union County,m03,same,70.87
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37181,Vance County,m03,same,55.42
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37183,Wake County,m03,same,44.61
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37185,Warren County,m03,same,44.87
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37187,Washington County,m03,same,53.12
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37189,Watauga County,m03,same,47.96
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37191,Wayne County,m03,same,64.29
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37193,Wilkes County,m03,same,73.39
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37195,Wilson County,m03,same,56.81
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37197,Yadkin County,m03,same,76.88
+NC-CONSTITUTIONALAMENDMENTPROPERTYTAXLEVYLIMIT,37199,Yancey County,m03,same,59.72
+MD-Q2,24001,Allegany County,m06,same,70.29
+MD-Q2,24003,Anne Arundel County,m06,same,72.66
+MD-Q2,24005,Baltimore County,m06,same,71.29
+MD-Q2,24510,Baltimore city,m06,same,79.02
+MD-Q2,24009,Calvert County,m06,same,70.63
+MD-Q2,24011,Caroline County,m06,same,68.55
+MD-Q2,24013,Carroll County,m06,same,68.14
+MD-Q2,24015,Cecil County,m06,same,67.65
+MD-Q2,24017,Charles County,m06,same,71.29
+MD-Q2,24019,Dorchester County,m06,same,69.59
+MD-Q2,24021,Frederick County,m06,same,69.99
+MD-Q2,24023,Garrett County,m06,same,66.19
+MD-Q2,24025,Harford County,m06,same,68.91
+MD-Q2,24027,Howard County,m06,same,76.44
+MD-Q2,24029,Kent County,m06,same,74.00
+MD-Q2,24031,Montgomery County,m06,same,83.14
+MD-Q2,24033,Prince George's County,m06,same,80.67
+MD-Q2,24035,Queen Anne's County,m06,same,72.97
+MD-Q2,24039,Somerset County,m06,same,68.30
+MD-Q2,24037,St. Mary's County,m06,same,69.24
+MD-Q2,24041,Talbot County,m06,same,71.72
+MD-Q2,24043,Washington County,m06,same,71.48
+MD-Q2,24045,Wicomico County,m06,same,69.06
+MD-Q2,24047,Worcester County,m06,same,69.30

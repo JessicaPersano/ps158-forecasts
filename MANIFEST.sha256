@@ -1,0 +1,26 @@
+# SHA-256 of every published file
+e1b9ae66bbe7bad5f428c9aadeaf71acaf6fff18e6f0dcace24a71f7199a3121  baseline_b2/b2_forecasts_extension.csv
+cd33dc909a46877ba311e6d3e5a9407f7c09129e512a2fd89cbdc6cc43ee2858  baseline_b2/b2_forecasts_original.csv
+57757510c7d1dd8ba2d9dec66f0ff4c54648d9ce0ca0ba045864f887dfb17f89  baseline_b2/b2_forecasts_tier2.csv
+5b746631c4e7142ddc4f565b9d767220d603ad80c9935ff44a3b7e12e8a4ece9  baseline_b2/b2_forecasts_tier2_conditional.csv
+64e2d7e1b045955235606e7d35071dc617f605f15886f2399c78a82ff0cefb41  forecasts/agentic_county_forecasts.csv
+00a90032634c47b9a2516320116e468a2775736d667e80cba97cc5c3c137d8b7  forecasts/agentic_forecasts.csv
+b6896dff24b2c57bf050606d3a55443aa413ffb26e25dd83ae8da13ff25efa27  forecasts/registered_county_forecasts.csv
+d1f8a2eb98dee7230759860d130d24fac8e9d6d8ff5ab8499dea7fdef85ce028  forecasts/registered_forecasts.csv
+957abbf2dd09143bac80776de4925f8be14b8dd16a5c0cbb7f6a27e30c758eb2  README.md
+
+# SHA-256 of the full forecast files with the text columns (key_considerations; agentic also methodology),
+# in the private working repository under forecast_text/; the text is published after Nov 3, 2026 (README)
+57610ebf88e0b9d06612641d943183fbbde085d7c01472187d3c283f4de1b29d  private:forecast_text/agentic_forecasts_full.csv
+6a501ed5ebff52d0d3c60103bab1274e26aae17f8f5ecfe050c83ca90e69ffab  private:forecast_text/registered_forecasts_full.csv
+
+# SHA-256 of the private forecast logs these values were extracted from (uncompressed). They are in the private
+# working repository under forecast_logs/, gzip-compressed; forecast_logs/LOGS.sha256 there lists these hashes and the
+# compressed files' hashes.
+1c4d914d60f6fd7b7540f9e3ab931e4fbd2434689c264ca4d58ddb5a87b20912  private:pipeline/outputs/forecasts/forecasts_claude.jsonl
+99ae43a1df35137d60c39b0e4befbbe3775f3d06b90d310fb77a7b0f3ecd1c66  private:pipeline/outputs_ext/forecasts/forecasts_claude.jsonl
+871f737aaaaea2864878ca14016ba207f9e1113030fca75531358594a9cf694d  private:pipeline/outputs_t2/forecasts/forecasts_claude.jsonl
+9b29b8581790280c8d2d73565c0e18c0aec80d0e57094499891b8a4cc4233303  private:pipeline/outputs_agentic/forecasts_agentic.jsonl
+
+# Private working repository, latest commit at build time
+commit d8be7dc9beb15ae9e6505cf6a9e98ad672934af7
